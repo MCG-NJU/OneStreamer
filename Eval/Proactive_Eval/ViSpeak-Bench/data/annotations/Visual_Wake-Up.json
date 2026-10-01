@@ -1,0 +1,1802 @@
+[
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0412_man_19_shandong_1492.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, any questions I can assist you with?",
+                "time": 2.0425285439584155,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0449_woman_20_shandong_1594.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! What kind of assistance do you need today?",
+                "time": 1.0607424346730328,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0451_man_18_shandong_1599.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Glad to have you here for a chat.",
+                "time": 2.175261567873943,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0415_man_20_shandong_1500.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 3.1351472131763454,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0422_man_19_shandong_1528.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 1.717571206344895,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0455_woman_18_shandong_1614.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Please let me know if there's anything I can do for you.",
+                "time": 2.0283744529345547,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0428_man_18_shandong_1543.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 3.2267957441823016,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0273_man_18_shandong_11859.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Glad to have you here for a chat.",
+                "time": 1.6520364299132826,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0466_woman_18_shandong_1648.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 1.4484082360765445,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0290_woman_20_shandong_2160.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I hope I can help you find what you're looking for.",
+                "time": 2.347305914688121,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0475_woman_20_shandong_1675.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 2.731672870461072,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0465_woman_20_shandong_1645.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 1.050002296078861,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0445_man_20_shandong_11842.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Feel free to ask if you have any questions.",
+                "time": 1.5139476800634164,
+                "timespan": [
+                    0.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0486_woman_19_shandong_1711.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 2.5795521499236034,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0441_man_18_shandong_1576.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 1.19489444110517,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0428_man_18_shandong_1544.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 2.648703728145667,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0463_man_19_shandong_1638.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 6.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 1.860533385381423,
+                "timespan": [
+                    0.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0474_woman_20_shandong_1674.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 1.6205700656902806,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0483_man_20_shandong_1704.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 3.4727681257352425,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0416_man_20_shandong_1507.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! What kind of assistance do you need today?",
+                "time": 3.1534608158048596,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0433_woman_18_shandong_1557.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! If there's any issue, feel free to communicate, and I'll provide support.",
+                "time": 2.714156750536381,
+                "timespan": [
+                    1.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0485_woman_20_shandong_11815.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, nice to see you, is there anything I can assist with?",
+                "time": 2.593885997250549,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0436_woman_22_shandong_11846.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Don't hesitate to ask any questions, I'm here to help.",
+                "time": 2.518741667359049,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0413_man_20_shandong_1495.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 2.7131168219242916,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0278_man_18_shandong_2143.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 2.3141023954507354,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0456_woman_18_shandong_11833.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 1.6303799880050278,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0348_woman_18_shandong_1217.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 2.0629702574624162,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0416_man_20_shandong_1508.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 2.182309983355575,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0275_man_18_shandong_2133.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Feel free to ask if you have any questions.",
+                "time": 2.3499964944222618,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0417_woman_20_shandong_11857.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 2.0004265936963668,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0414_man_19_shandong_1496.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 2.0934200571991233,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0494_man_18_shandong_11809.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I hope I can help you find what you're looking for.",
+                "time": 1.689328421266427,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0493_man_20_shandong_11811.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 1.5235445837796142,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0285_man_19_shandong_968.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! If there's any issue, feel free to communicate, and I'll provide support.",
+                "time": 2.387736321484663,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0435_man_20_shandong_1561.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm here and ready to help.",
+                "time": 2.6922026268813237,
+                "timespan": [
+                    1.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0448_woman_19_shandong_11839.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Glad to have you here! Let me know if you need assistance.",
+                "time": 1.0585107246506182,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0456_woman_18_shandong_1620.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 1.1609935581480602,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0290_woman_20_shandong_989.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 2.398231837833703,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0422_man_19_shandong_1529.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Don't hesitate to ask any questions, I'm here to help.",
+                "time": 1.6086697509560894,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0455_woman_18_shandong_11835.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 3.3336504299387055,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0464_woman_20_shandong_11828.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Feel free to ask if you have any questions.",
+                "time": 1.721026311058548,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0481_man_20_shandong_1695.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 1.7353790978595975,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0284_man_19_shandong_964.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 2.4968010050219207,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0457_man_19_shandong_1621.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I hope I can help you find what you're looking for.",
+                "time": 2.1482496619680145,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0350_man_18_shandong_1223.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm here and ready to help.",
+                "time": 2.314503583788171,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0424_woman_20_shandong_1534.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm here and ready to help.",
+                "time": 2.2379746668707314,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0430_woman_39_shandong_11850.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Please let me know if there's anything I can do for you.",
+                "time": 2.988591595116192,
+                "timespan": [
+                    1.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0425_man_21_shandong_1538.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Here to serve you, feel free to ask any questions.",
+                "time": 1.648574475608287,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0276_man_18_shandong_2135.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 2.491783850948973,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0412_man_19_shandong_1493.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Glad to have you here for a chat.",
+                "time": 2.532537165136383,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0281_man_18_shandong_958.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 2.0080922676958624,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0288_man_19_shandong_980.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 2.2584979207712306,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0450_man_18_shandong_1598.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 1.1309097220160111,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0287_man_19_shandong_2159.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 2.222384381996302,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0478_woman_19_shandong_1687.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 1.5568142613131992,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0434_woman_18_shandong_1560.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I hope I can help you find what you're looking for.",
+                "time": 4.126596177279351,
+                "timespan": [
+                    3.0,
+                    5.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0451_man_18_shandong_1600.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, any questions I can assist you with?",
+                "time": 4.265006502170395,
+                "timespan": [
+                    3.0,
+                    5.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0437_woman_18_shandong_1566.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Feel free to ask if you have any questions.",
+                "time": 2.375387234034511,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0491_man_22_shandong_10101.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, any questions I can assist you with?",
+                "time": 1.515278905286849,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0272_woman_18_shandong_2124.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Here to serve you, feel free to ask any questions.",
+                "time": 2.166685491450026,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0273_man_18_shandong_2126.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 2.179892938484898,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0437_woman_18_shandong_1565.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 3.150225330767216,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0347_woman_18_shandong_1210.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! If there's any issue, feel free to communicate, and I'll provide support.",
+                "time": 2.2464189870515012,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0468_woman_19_shandong_1653.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 2.40891066974575,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0465_woman_20_shandong_11827.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 1.2546604939936392,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0427_man_18_shandong_11852.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 3.024507257899307,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0414_man_19_shandong_1498.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 3.1308930312822785,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0462_man_19_shandong_1635.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 1.3201792623690243,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0477_woman_18_shandong_1682.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 2.5591013434956373,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0439_woman_19_shandong_11844.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 3.2850945705900125,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0484_man_19_shandong_1705.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, nice to see you, is there anything I can assist with?",
+                "time": 2.6057377709297262,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0429_man_26_shandong_1546.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 2.7852576289392394,
+                "timespan": [
+                    1.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0330_man_19_shandong_6101.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 2.1778223314398617,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0459_woman_21_shandong_1628.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! If there's any issue, feel free to communicate, and I'll provide support.",
+                "time": 2.8340338737949895,
+                "timespan": [
+                    0.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0446_woman_19_shandong_1587.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 1.4107409206337014,
+                "timespan": [
+                    0.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0417_woman_20_shandong_1509.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 2.7054007773822843,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0420_man_21_shandong_1522.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! I'm here to provide information or suggestions as needed.",
+                "time": 2.122908341906127,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0471_man_19_shandong_1661.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 3.1450783722228297,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0472_man_20_shandong_1669.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Don't hesitate to ask any questions, I'm here to help.",
+                "time": 1.5762535549855965,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0347_woman_18_shandong_1215.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, any questions I can assist you with?",
+                "time": 2.12223801653879,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0285_man_19_shandong_965.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 3.2892428321050855,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0348_woman_18_shandong_1218.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi, I'm here to assist you. Just let me know what you need.",
+                "time": 2.05927139856483,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0436_woman_22_shandong_1563.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Don't hesitate to ask any questions, I'm here to help.",
+                "time": 3.236229007990847,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0453_woman_19_shandong_11838.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! If there's any issue, feel free to communicate, and I'll provide support.",
+                "time": 2.3451660454325123,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0286_man_19_shandong_973.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! Is there anything I can help you with today?",
+                "time": 2.2347726844117757,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0458_man_18_shandong_1626.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome to consult! I will do my best to answer your queries.",
+                "time": 2.8029829721864443,
+                "timespan": [
+                    1.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0435_man_20_shandong_1562.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Glad to have you here! Let me know if you need assistance.",
+                "time": 3.1698253312520204,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0274_woman_18_shandong_2130.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Nice to meet you! Let me know how I can assist you.",
+                "time": 1.6135741904042114,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0420_man_21_shandong_1519.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, nice to see you, is there anything I can assist with?",
+                "time": 2.2642271562349054,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0413_man_20_shandong_1494.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Glad to have you here! Let me know if you need assistance.",
+                "time": 2.512966736586247,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0275_man_18_shandong_2132.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 1.574953876494984,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0432_man_19_shandong_11849.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 2.634264453098791,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0277_man_18_shandong_2139.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Glad to have you here! Let me know if you need assistance.",
+                "time": 1.5690370255818584,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0481_man_20_shandong_11819.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! I'm ready to help you with any issue you might have.",
+                "time": 2.7442992630257947,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0440_woman_19_shandong_1574.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Here to serve you, feel free to ask any questions.",
+                "time": 3.1979674357616625,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0475_woman_20_shandong_1677.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Nice to meet you, how can I assist you today?",
+                "time": 2.023209438443737,
+                "timespan": [
+                    1.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0482_man_18_hebei_1696.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello, any questions I can assist you with?",
+                "time": 2.7438492549192612,
+                "timespan": [
+                    2.0,
+                    3.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0280_man_19_shandong_2148.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hi! I'm happy to help with any problem-solving needs.",
+                "time": 3.3170608644227704,
+                "timespan": [
+                    2.0,
+                    4.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0468_woman_19_shandong_1655.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Hello! Here to serve you, feel free to ask any questions.",
+                "time": 1.606270113102582,
+                "timespan": [
+                    1.0,
+                    2.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0418_woman_20_shandong_1514.mp4",
+        "task_type": "Visual Wake-Up",
+        "video_start_time": 0.0,
+        "video_end_time": 12.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Welcome! Feel free to ask if you have any questions.",
+                "time": 3.7342457487136596,
+                "timespan": [
+                    3.0,
+                    4.0
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+{
+  "output_root": "outputs",
+  "judge_output_root": "judge_outputs",
+  "ovobench": "../path_to/datasets/OVOBench",
+  "streamingbench": "../path_to/datasets/StreamingBench",
+  "ovbench": "../path_to/datasets/OVBench",
+  "ovbench_ava": "../path_to/datasets/OVBench_new",
+  "odvbench": "../path_to/datasets/ODVBench",
+  "proactivevideoqa": "../path_to/datasets/ProactiveVideoQA",
+  "omnimmi": "../path_to/datasets/OmniMMI",
+  "vispeak": "../path_to/datasets/ViSpeak-Bench"
+}

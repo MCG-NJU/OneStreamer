@@ -1,0 +1,3602 @@
+[
+    {
+        "video": "Anomaly_Warning/Abuse001_x264.mp4",
+        "n_frames": 2729,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically, Physical Abuse. The anomaly events involve two instances of physical assault: a man in white clothes pulling out a red cloth from the woman's body and then punching her in the head, and a man in black clothes punching the woman in the head. The basis for judging this anomaly is the sudden and intentional infliction of physical harm on the woman by the two men, which deviates from the normal and expected behavior in the scene. If you witness physical abuse, it's crucial to prioritize safety; try to intervene if you can do so without putting yourself at risk, and seek help from authorities immediately.",
+                "time": 11.721680998938036,
+                "timespan": [
+                    3.933,
+                    15.867
+                ]
+            }
+        ],
+        "video_len": 90.96666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Abuse002_x264.mp4",
+        "n_frames": 865,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Hit-and-Run\" and \"Child Abuse\" anomaly. The anomaly events involve a man falling out of a silver van, an undressed child falling to the ground, and then being crushed by a silver car that fails to stop, with the surrounding vehicles continuing to move forward without assisting. The basis for judging this anomaly is the unusual and disturbing sequence of events that deviate from normal traffic behavior and violate moral and ethical standards. This situation is highly disturbing; you should immediately report it to the authorities to ensure the child's safety and hold those responsible accountable.",
+                "time": 4.416733977806293,
+                "timespan": [
+                    0.0,
+                    6.833
+                ]
+            }
+        ],
+        "video_len": 28.833333333333332
+    },
+    {
+        "video": "Anomaly_Warning/Abuse010_x264.mp4",
+        "n_frames": 1133,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Animal Abuse\" anomaly. The anomaly event involves a dog being pinned down by a car and the driver failing to stop and assist, instead driving away without stopping. The basis for judging this anomaly is the observation of a dog being injured and the driver's reckless and irresponsible behavior, deviating from expected norms of human-animal interaction and road safety. It\u2019s crucial that you report this incident to the authorities immediately, as neglecting animal welfare and road safety is unacceptable.",
+                "time": 6.461901180092783,
+                "timespan": [
+                    3.3,
+                    9.3
+                ]
+            }
+        ],
+        "video_len": 37.766666666666666
+    },
+    {
+        "video": "Anomaly_Warning/Abuse013_x264.mp4",
+        "n_frames": 4869,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Physical Child Abuse. The anomaly events involve the teacher physically disciplining children, including dragging them by their ears, slapping, and pushing them to the ground. The basis for judging this anomaly is the observation of intentional and harmful physical interactions between the teacher and children, deviating from acceptable and safe educational practices. It's crucial to report this situation to the appropriate authorities immediately, as the safety and well-being of the children must come first.",
+                "time": 152.31272746419825,
+                "timespan": [
+                    134.767,
+                    158.267
+                ]
+            }
+        ],
+        "video_len": 162.3
+    },
+    {
+        "video": "Anomaly_Warning/Abuse016_x264.mp4",
+        "n_frames": 1407,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Abuse\" anomaly. The anomaly event involves the dog suddenly biting the man who was chasing him, causing the man to become frightened and run back towards the wall. The basis for judging this anomaly is that the sudden and unexpected attack by the dog on the man deviates from the normal and expected behavior of a dog in a chasing scenario. It\u2019s important to ensure that the dog feels safe and is properly trained, and it might be a good idea to consult a professional to understand and address any underlying behavioral issues.",
+                "time": 26.45356696949172,
+                "timespan": [
+                    22.667,
+                    27.8
+                ]
+            }
+        ],
+        "video_len": 46.9
+    },
+    {
+        "video": "Anomaly_Warning/Abuse017_x264.mp4",
+        "n_frames": 1920,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically identified as Child Abuse. The anomaly event involves a woman in a white top kicking a crying child in orange clothes repeatedly, with the cashier nearby ignoring the situation. The basis for judging this anomaly is the clear and intentional infliction of physical harm and emotional distress on a vulnerable child by an adult. It is crucial to intervene by calling local authorities immediately to ensure the child's safety and report the abusive behavior you witnessed.",
+                "time": 42.39604117251676,
+                "timespan": [
+                    36.167,
+                    45.867
+                ]
+            }
+        ],
+        "video_len": 64.0
+    },
+    {
+        "video": "Anomaly_Warning/Abuse018_x264.mp4",
+        "n_frames": 2428,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an instance of Police Brutality. The anomaly event involves the police officer kicking the man who rushed towards him, causing the man to fall heavily to the ground with his head on his back. The basis for judging this anomaly is the excessive use of force by the police officer, which deviates from standard protocol and may be considered an abuse of authority. It's crucial to report this incident to the appropriate authorities, as excessive use of force by law enforcement is unacceptable and should be addressed to prevent future occurrences.",
+                "time": 59.05420784560985,
+                "timespan": [
+                    55.9,
+                    62.133
+                ]
+            }
+        ],
+        "video_len": 80.93333333333334
+    },
+    {
+        "video": "Anomaly_Warning/Abuse025_x264.mp4",
+        "n_frames": 2031,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically, physical child abuse. The anomaly events involve a woman using a curling iron to perm a little boy, which is an inappropriate and harmful use of the device, suggesting physical harm or mistreatment of the child. The basis for judging this anomaly is the unusual and unsafe use of a household appliance on a child, which deviates from normal and acceptable behavior. It\u2019s crucial to report this situation to the appropriate authorities immediately to ensure the safety and well-being of the child.",
+                "time": 20.349055617354878,
+                "timespan": [
+                    10.0,
+                    24.033
+                ]
+            }
+        ],
+        "video_len": 67.7
+    },
+    {
+        "video": "Anomaly_Warning/Abuse027_x264.mp4",
+        "n_frames": 4372,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Based on the video caption, it appears that an anomaly exists, specifically \"Child Abuse\" or \"Neglect\". The anomaly event involves the woman vigorously swinging the cradle, potentially putting the child at risk of harm, and then walking away, leaving the child unattended. The basis for judging this anomaly is the deviation from normal and safe childcare practices, which prioritize the child's well-being and safety above all else. It\u2019s crucial to report this behavior to the authorities, as the child\u2019s safety may be at risk and they need immediate protection.",
+                "time": 84.44201512394906,
+                "timespan": [
+                    70.733,
+                    93.6
+                ]
+            }
+        ],
+        "video_len": 145.73333333333332
+    },
+    {
+        "video": "Anomaly_Warning/Abuse029_x264.mp4",
+        "n_frames": 300,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There exists an anomaly, specifically Potential Animal Abuse. The anomaly event involves holding the dog forward and looking back, which raises concerns about the dog's welfare and potential mistreatment. The basis for judging this anomaly is the unusual and potentially harmful handling of the dog, deviating from standard and humane animal care practices. It\u2019s important to intervene and ensure the dog\u2019s safety; consider reporting the situation to animal control or a local welfare organization for proper investigation.",
+                "time": 9.003811485091887,
+                "timespan": [
+                    7.8,
+                    9.767
+                ]
+            }
+        ],
+        "video_len": 10.0
+    },
+    {
+        "video": "Anomaly_Warning/Abuse037_x264.mp4",
+        "n_frames": 1795,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Animal Abuse\" anomaly. The anomaly event involves a white car slowly appearing on the screen and crushing a black dog walking in the middle of the road. The basis for judging this anomaly is that the event depicts harm or cruelty towards an animal, which is a clear violation of animal welfare and ethical standards. It\u2019s crucial to report such incidents to local authorities or animal control agencies to ensure the safety and welfare of animals in your community.",
+                "time": 10.616114512466735,
+                "timespan": [
+                    3.567,
+                    16.433
+                ]
+            }
+        ],
+        "video_len": 59.833333333333336
+    },
+    {
+        "video": "Anomaly_Warning/Abuse039_x264.mp4",
+        "n_frames": 14144,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically, Physical Abuse. The anomaly events involve the yellow-haired woman and the man in black beating the black-haired woman, pushing her to the ground, and a group of people continuing to beat her while others stand by and watch. The basis for judging this anomaly is the clear depiction of violent and harmful physical behavior towards the black-haired woman, which is a violation of human rights and dignity. It\u2019s crucial to intervene safely by calling for help or alerting authorities, as witnessing such acts of violence is not just troubling but also a call to action for community support and protection.",
+                "time": 418.4647189007854,
+                "timespan": [
+                    348.433,
+                    455.133
+                ]
+            }
+        ],
+        "video_len": 471.46666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Abuse040_x264.mp4",
+        "n_frames": 3413,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Physical Abuse. The anomaly events involve the woman in blue slapping the white-haired woman multiple times, first with two slaps inside the room and again after they exit the room. The basis for judging this anomaly is the intentional and harmful physical contact exhibited by the woman in blue towards the white-haired woman, which deviates from normal and respectful human behavior. It's crucial to prioritize the safety of the person being harmed; consider intervening if it's safe to do so or contacting authorities for help.",
+                "time": 101.01621066462458,
+                "timespan": [
+                    75.267,
+                    113.767
+                ]
+            }
+        ],
+        "video_len": 113.76666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Abuse042_x264.mp4",
+        "n_frames": 28476,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically, Physical Abuse. The anomaly events involve the woman pushing the baby hard (49.8s-54.6s) and continuing to feed the baby rudely despite the baby's vigorous kicking (215.0s-227.5s). The basis for judging this anomaly is the woman's intentional use of force and disregard for the baby's distress, deviating from expected gentle and nurturing behavior. It\u2019s important to seek help immediately, as this behavior is harmful; consider contacting a professional or a support service for guidance on how to address this situation effectively.",
+                "time": 187.8891235804659,
+                "timespan": [
+                    0.0,
+                    262.133
+                ]
+            }
+        ],
+        "video_len": 949.2
+    },
+    {
+        "video": "Anomaly_Warning/Abuse045_x264.mp4",
+        "n_frames": 5085,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Physical Abuse. The anomaly event involves the woman kicking the old man three times while he is sitting next to her on the sofa. The basis for judging this anomaly is the intentional and violent physical contact exhibited by the woman towards the old man, which is a clear deviation from normal and respectful human behavior. It\u2019s important to seek help immediately; physical abuse is never acceptable and reaching out to authorities or support services can provide the necessary assistance and protection.",
+                "time": 9.057512594328951,
+                "timespan": [
+                    0.0,
+                    16.633
+                ]
+            }
+        ],
+        "video_len": 169.5
+    },
+    {
+        "video": "Anomaly_Warning/Abuse047_x264.mp4",
+        "n_frames": 1563,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Physical Abuse. The anomaly event involves the teacher kicking the mat under his feet and turning around, and then grabbing a child's hand, which are unusual and potentially harmful interactions. The basis for judging this anomaly is the unexpected and potentially violent nature of the teacher's actions towards the child, which deviates from typical and appropriate teaching behavior. It's crucial to report this behavior to the appropriate authorities immediately to ensure the child's safety and address the teacher's actions.",
+                "time": 44.667796452254414,
+                "timespan": [
+                    38.967,
+                    47.333
+                ]
+            }
+        ],
+        "video_len": 52.1
+    },
+    {
+        "video": "Anomaly_Warning/Arrest002_x264.mp4",
+        "n_frames": 1790,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is \"Arrest\". The anomaly event is the man in the white T-shirt quickly running over and subduing the man leaning against the goalpost to the ground, which appears to be a physical restraint or detention. The basis for judging this anomaly is that the sudden and forceful action of one person towards another is an unusual and potentially concerning event that warrants attention. It\u2019s important to call for help or alert the authorities since this looks like a concerning situation that could escalate further.",
+                "time": 9.396485222843882,
+                "timespan": [
+                    6.667,
+                    11.6
+                ]
+            }
+        ],
+        "video_len": 59.666666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Arrest006_x264.mp4",
+        "n_frames": 3090,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" anomaly. The anomaly event involves multiple police officers rushing over and pressing on the driver of the red car, indicating a possible arrest or detention. The basis for judging this anomaly is the sudden and intense police intervention, which deviates from the normal and expected behavior of police officers in a routine traffic stop or parking situation. It might be a good idea to stay clear of the situation and not get involved; let the authorities handle it while you observe from a safe distance.",
+                "time": 54.069515707537064,
+                "timespan": [
+                    40.1,
+                    61.4
+                ]
+            }
+        ],
+        "video_len": 103.0
+    },
+    {
+        "video": "Anomaly_Warning/Arrest008_x264.mp4",
+        "n_frames": 6388,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" anomaly. The anomaly event involves the police officers surrounding the Jeep to investigate, and potentially arresting the occupants, as indicated by the flashing lights of the police car. The basis for judging this anomaly is the unusual and potentially confrontational behavior of the police officers, deviating from a routine traffic stop. Stay calm and comply with the officers' instructions; it\u2019s important to remain respectful and cooperative during such situations.",
+                "time": 168.39753053525712,
+                "timespan": [
+                    125.2,
+                    198.867
+                ]
+            }
+        ],
+        "video_len": 212.93333333333334
+    },
+    {
+        "video": "Anomaly_Warning/Arrest011_x264.mp4",
+        "n_frames": 2214,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" anomaly. The anomaly event involves a sudden and unexpected change in the scene, possibly indicating an arrest taking place, which is not a normal or expected behavior in the context of a person smoking at a door. The basis for judging this anomaly is the deviation from the expected norm of a person smoking at a door, which typically does not involve sudden or dramatic events like an arrest. It\u2019s best to stay calm and move to a safe distance from the situation; keeping your distance can help avoid any unnecessary complications.",
+                "time": 13.435883622737627,
+                "timespan": [
+                    2.6,
+                    20.033
+                ]
+            }
+        ],
+        "video_len": 73.8
+    },
+    {
+        "video": "Anomaly_Warning/Arrest014_x264.mp4",
+        "n_frames": 1536,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically named as \"Arrest\". The anomaly events involve the man wearing sunglasses being escorted out by the four men in green police uniforms, indicating a possible arrest. The basis for judging this anomaly is that the sudden appearance of multiple police officers and the escorting of an individual out of the scene is an unusual and notable event that deviates from the normal flow of people entering and leaving the area. It\u2019s a good idea to stay calm and gather any relevant information you can about the situation; it might be helpful to report what you\u2019ve seen if needed.",
+                "time": 35.90696265811002,
+                "timespan": [
+                    0.0,
+                    51.167
+                ]
+            }
+        ],
+        "video_len": 51.2
+    },
+    {
+        "video": "Anomaly_Warning/Arrest018_x264.mp4",
+        "n_frames": 2434,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There is an anomaly event (Arrest) in the video. The anomaly event is when a woman wanted to cross the road but was pulled back by a man, which may indicate a potential arrest or restraint situation. The basis for judging this anomaly is that the woman's action was interrupted by the man, suggesting a possible enforcement or control action. It\u2019s important to ensure that all parties involved feel safe; consider reaching out to local authorities or witnesses if the situation seemed threatening.",
+                "time": 47.57781262277328,
+                "timespan": [
+                    38.367,
+                    52.5
+                ]
+            }
+        ],
+        "video_len": 81.13333333333334
+    },
+    {
+        "video": "Anomaly_Warning/Arrest023_x264.mp4",
+        "n_frames": 1807,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" anomaly. The anomaly event is a man in white being chased by two men in black and a man in red, implying a potential apprehension or detention. The basis for judging this anomaly is the unusual and sudden pursuit of one individual by multiple others, deviating from expected normal behavior in a public setting. It would be wise to stay clear of the area and ensure your safety, as the situation seems tense and potentially dangerous.",
+                "time": 4.427668103069785,
+                "timespan": [
+                    0.0,
+                    6.433
+                ]
+            }
+        ],
+        "video_len": 60.233333333333334
+    },
+    {
+        "video": "Anomaly_Warning/Arrest027_x264.mp4",
+        "n_frames": 1708,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is \"Arrest\". The anomaly event is a sudden and unusual occurrence of a police car stopping a vehicle and officers apprehending the driver, which is an unexpected and unusual event compared to the normal flow of traffic on the highway. The basis for judging the anomaly is that it deviates from the expected pattern of normal traffic behavior, where cars typically drive continuously without interruptions or unusual interactions with authorities. It might be wise to stay calm and avoid any sudden movements; ensure your hands are visible and follow any instructions given by the officers.",
+                "time": 19.042547032414614,
+                "timespan": [
+                    9.567,
+                    24.833
+                ]
+            }
+        ],
+        "video_len": 56.93333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Arrest037_x264.mp4",
+        "n_frames": 2132,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" anomaly. The anomaly event involves the policemen and other men attempting to stop and presumably apprehend the man who got off the motorcycle and ran outside. The basis for judging this anomaly is the unusual and sudden escalation of events, particularly the swift response of the policemen and other men to detain the individual, which deviates from typical everyday behavior. Stay calm and keep a safe distance from the situation; it's best to avoid interference and let the authorities handle it.",
+                "time": 14.747301905282107,
+                "timespan": [
+                    4.667,
+                    20.533
+                ]
+            }
+        ],
+        "video_len": 71.06666666666666
+    },
+    {
+        "video": "Anomaly_Warning/Arrest043_x264.mp4",
+        "n_frames": 10799,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Excessive Force\" anomaly. The anomaly events involve a man wearing a yellow hat and a black police uniform beating a man lying on the ground with his feet and pressing on him in the middle of the yard. The basis for judging this anomaly is the apparent use of disproportionate and unjustified force by the police officer, deviating from standard arrest procedures and potentially violating human rights. It\u2019s crucial to intervene by calling the authorities or a local human rights organization, as this situation demands immediate attention to protect the individual being harmed.",
+                "time": 107.45844859698508,
+                "timespan": [
+                    53.4,
+                    133.4
+                ]
+            }
+        ],
+        "video_len": 359.96666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Arrest047_x264.mp4",
+        "n_frames": 63060,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Arrest\" event. The anomaly events involve a man in blue trotting towards the red police car and returning after a while, which occurs twice, and a man in black getting out of the white police car and returning to the car. The basis for judging this anomaly is the unusual and repetitive interactions between the individuals and the police cars, which deviate from the normal flow of traffic and pedestrian activity in the video. It looks like something unusual is going on; it might be a good idea to stay at a safe distance and avoid becoming involved in any potential situation with the police.",
+                "time": 1892.4462288196037,
+                "timespan": [
+                    1719.667,
+                    1953.933
+                ]
+            }
+        ],
+        "video_len": 2102.0
+    },
+    {
+        "video": "Anomaly_Warning/Arson001_x264.mp4",
+        "n_frames": 4187,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an Arson event. The anomaly events involve the man setting himself on fire and running back and forth, with the fire persisting despite his actions. The basis for judging this anomaly is the intentional and harmful act of self-immolation, which is a dangerous and unusual behavior that deviates significantly from normal human actions. It\u2019s crucial to seek immediate help for anyone engaging in such dangerous behaviors; please contact emergency services or a mental health professional right away.",
+                "time": 72.57739299907918,
+                "timespan": [
+                    54.767,
+                    87.067
+                ]
+            }
+        ],
+        "video_len": 139.56666666666666
+    },
+    {
+        "video": "Anomaly_Warning/Arson002_x264.mp4",
+        "n_frames": 4439,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Arson. The anomaly event involves a man igniting gasoline and running away quickly, followed by the fire burning until it goes out. The basis for judging this anomaly is the intentional and dangerous act of setting a fire, which deviates from normal and safe behavior. It is crucial to report the incident to local authorities immediately, as arson is a serious crime that poses risks to life and property.",
+                "time": 112.99339644803369,
+                "timespan": [
+                    92.633,
+                    125.067
+                ]
+            }
+        ],
+        "video_len": 147.96666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson003_x264.mp4",
+        "n_frames": 4013,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as Arson. The anomaly event involves the suspicious and intentional spread of fire across the room, potentially indicating a deliberate act of setting the fire. The basis for judging this anomaly is the unusual and accelerated spread of the fire, which cannot be explained by natural causes, suggesting human intervention. It\u2019s crucial to get to safety immediately and call emergency services, as this situation poses serious risks to life and property.",
+                "time": 61.56834007846504,
+                "timespan": [
+                    41.1,
+                    70.533
+                ]
+            }
+        ],
+        "video_len": 133.76666666666668
+    },
+    {
+        "video": "Anomaly_Warning/Arson006_x264.mp4",
+        "n_frames": 2815,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and its specific name is Arson. The anomaly event involves a fire appearing at the door and gradually burning, eventually igniting the entire room due to the presence of gasoline, suggesting intentional and malicious behavior. The basis for judging this anomaly is the unusual and suspicious nature of the fire's origin and spread, which deviates from normal and expected patterns of accidental fires. If you suspect arson, evacuate immediately and contact the authorities to report the fire and any suspicious activity you observed.",
+                "time": 83.37203955148698,
+                "timespan": [
+                    76.267,
+                    90.167
+                ]
+            }
+        ],
+        "video_len": 93.83333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Arson008_x264.mp4",
+        "n_frames": 1220,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves a suspicious fire spreading forward and burning forward at the door, which may have been intentionally set. The basis for judging this anomaly is the unusual and unexplained origin of the fire, which is inconsistent with natural causes and suggests human intervention. Contact local authorities immediately and prioritize your safety by evacuating the area until they can assess the situation.",
+                "time": 32.25143073315519,
+                "timespan": [
+                    29.533,
+                    34.5
+                ]
+            }
+        ],
+        "video_len": 40.666666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Arson013_x264.mp4",
+        "n_frames": 6379,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves a man's feet being on fire and him running across the aisle, suggesting intentional and dangerous behavior. The basis for judging this anomaly is that the event is unusual and potentially harmful, deviating from normal and expected human behavior. It's crucial to immediately alert authorities and ensure everyone's safety; this situation is highly dangerous and needs professional intervention.",
+                "time": 184.04185041662157,
+                "timespan": [
+                    167.867,
+                    194.4
+                ]
+            }
+        ],
+        "video_len": 212.63333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Arson014_x264.mp4",
+        "n_frames": 2634,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves the man running away and the gray van exploding and burning, suggesting a deliberate act of setting the vehicle on fire. The basis for judging this anomaly is the sudden and unexplained explosion and burning of the van, which is an unusual and suspicious event that deviates from normal behavior. It\u2019s crucial that you report the incident to the authorities immediately, as this appears to be a serious act of arson that poses a risk to public safety.",
+                "time": 47.99797270453493,
+                "timespan": [
+                    33.467,
+                    53.233
+                ]
+            }
+        ],
+        "video_len": 87.8
+    },
+    {
+        "video": "Anomaly_Warning/Arson017_x264.mp4",
+        "n_frames": 1382,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves the two individuals throwing something to the roadside and running away, suggesting that they may have intentionally set something on fire. The basis for judging this anomaly is the suspicious behavior of the individuals, particularly the act of throwing an unknown object to the roadside and fleeing the scene, which is indicative of a potential arson incident. It\u2019s important to report this suspicious behavior to the authorities immediately to prevent any potential harm or further incidents.",
+                "time": 24.802787511169868,
+                "timespan": [
+                    22.333,
+                    26.8
+                ]
+            }
+        ],
+        "video_len": 46.06666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson021_x264.mp4",
+        "n_frames": 1441,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Arson, which involves intentionally setting fires to cause harm or damage. The anomaly events involve the man deliberately lighting a fire at the door and leaving on his bicycle, causing the gate to burn violently as he rides away. The basis for judging this anomaly is the intentional and malicious act of setting fires, which is a clear deviation from normal and safe behavior. It\u2019s crucial to report this incident to the authorities immediately, as arson poses a serious threat to safety and property.",
+                "time": 43.19593535674221,
+                "timespan": [
+                    35.8,
+                    48.033
+                ]
+            }
+        ],
+        "video_len": 48.03333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Arson023_x264.mp4",
+        "n_frames": 1360,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves a man intentionally throwing a fire into a car and leaving, resulting in the car starting to burn. The basis for judging this anomaly is that the man's intentional and harmful action towards the car deviates significantly from normal and expected behavior, indicating a deliberate and malicious act. It's crucial to report this incident to the police immediately, as arson is a serious crime and they need to investigate it further.",
+                "time": 43.67035716331624,
+                "timespan": [
+                    40.533,
+                    45.333
+                ]
+            }
+        ],
+        "video_len": 45.333333333333336
+    },
+    {
+        "video": "Anomaly_Warning/Arson028_x264.mp4",
+        "n_frames": 2409,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event is the fire burning fiercely in front of the door, suggesting a deliberate and intentional act of setting the fire, which is a serious violation of safety and security protocols. The basis for judging the anomaly is the unusual and unexplained origin of the fire, which deviates from normal and expected behavior in a typical environment. It\u2019s crucial to evacuate the area immediately and contact emergency services, as arson poses a serious danger to everyone involved.",
+                "time": 62.57596869401483,
+                "timespan": [
+                    58.667,
+                    66.233
+                ]
+            }
+        ],
+        "video_len": 80.3
+    },
+    {
+        "video": "Anomaly_Warning/Arson029_x264.mp4",
+        "n_frames": 1349,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There is an anomaly, specifically Arson, in the video. The anomaly event involves the man getting out of the car in the middle of the road and leaving, which is an unusual and suspicious behavior. The basis for judging this anomaly is that the man's actions deviate from the expected norm of staying in the car or pulling over to a safe location, indicating a potential safety risk or intentional act of vandalism. It\u2019s crucial to report this suspicious behavior to the authorities immediately to ensure the safety of others and potentially prevent further incidents.",
+                "time": 34.269242994949174,
+                "timespan": [
+                    32.333,
+                    35.2
+                ]
+            }
+        ],
+        "video_len": 44.96666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson030_x264.mp4",
+        "n_frames": 5053,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as Arson. The anomaly event involves two individuals intentionally setting fire to a tree next to the road, which eventually becomes smaller and is extinguished. The basis for judging this anomaly is the deliberate and harmful act of setting fire to a tree, which is a criminal offense and a threat to public safety. I recommend reporting the incident to local authorities immediately, as arson is a serious crime that can endanger lives and property.",
+                "time": 59.108267389818096,
+                "timespan": [
+                    20.8,
+                    78.233
+                ]
+            }
+        ],
+        "video_len": 168.43333333333334
+    },
+    {
+        "video": "Anomaly_Warning/Arson037_x264.mp4",
+        "n_frames": 803,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as Arson. The anomaly event involves an explosion and a fire that hits a man, who then runs away quickly, suggesting a deliberate and malicious act of setting a fire. The basis for judging this anomaly is the unusual and intentional nature of the explosion and fire, which deviates from normal and expected events in a typical video sequence. Ensure you report this incident to the authorities immediately, as it poses a serious threat to public safety and requires urgent investigation.",
+                "time": 14.19482132622968,
+                "timespan": [
+                    13.133,
+                    14.667
+                ]
+            }
+        ],
+        "video_len": 26.766666666666666
+    },
+    {
+        "video": "Anomaly_Warning/Arson039_x264.mp4",
+        "n_frames": 3376,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves a man intentionally lighting a fire and leaving from the side stairs, resulting in a huge flame explosion at the door. The basis for judging this anomaly is the deliberate and harmful action of the individual, which deviates from normal and safe behavior, indicating a potentially criminal act. It\u2019s crucial to report this incident to the authorities immediately to ensure public safety and prevent further harm.",
+                "time": 16.53930485053717,
+                "timespan": [
+                    6.8,
+                    22.633
+                ]
+            }
+        ],
+        "video_len": 112.53333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Arson040_x264.mp4",
+        "n_frames": 2835,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Arson. The anomaly events involve a man pouring gasoline on a wall, lighting it on fire, and leaving the scene as the wall starts to catch fire. The basis for judging this anomaly is the intentional and dangerous act of setting fire to a wall, which is a harmful and illegal behavior that poses a threat to people and property. If you witness someone committing arson, like pouring gasoline and lighting a fire, it's crucial to report it to the authorities immediately for everyone's safety.",
+                "time": 13.262798133592776,
+                "timespan": [
+                    0.0,
+                    20.667
+                ]
+            }
+        ],
+        "video_len": 94.5
+    },
+    {
+        "video": "Anomaly_Warning/Arson042_x264.mp4",
+        "n_frames": 5873,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as Arson. The anomaly event involves another person coming to the door, sprinkling gasoline, and setting it on fire, causing an explosion. The basis for judging this anomaly is the intentional and harmful act of setting a fire, which is a deliberate and dangerous deviation from normal and safe behavior. Please evacuate the area immediately and call emergency services to report the incident\u2014your safety is the top priority!",
+                "time": 188.9639909441076,
+                "timespan": [
+                    176.467,
+                    195.767
+                ]
+            }
+        ],
+        "video_len": 195.76666666666668
+    },
+    {
+        "video": "Anomaly_Warning/Arson044_x264.mp4",
+        "n_frames": 1196,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event involves the motorcycle intentionally being set on fire, which is an unusual and suspicious occurrence. The basis for judging this anomaly is the unexpected and deliberate nature of the motorcycle burning, which deviates from normal and expected behavior in a typical video. It\u2019s crucial to report the arson to local authorities immediately to ensure the safety of others and investigate the situation properly.",
+                "time": 34.19545412836216,
+                "timespan": [
+                    29.1,
+                    38.8
+                ]
+            }
+        ],
+        "video_len": 39.86666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson046_x264.mp4",
+        "n_frames": 2073,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is Arson. The anomaly event is the man returning to the window after walking away, which may indicate suspicious behavior or potential intent to start a fire. The basis for judging this anomaly is the unusual and unexpected behavior of the individual, deviating from normal human behavior in a given situation, suggesting a possible intent to engage in harmful or illegal activities. It would be wise to report this suspicious behavior to local authorities, as it could indicate a potential threat to safety.",
+                "time": 16.652359737450727,
+                "timespan": [
+                    11.867,
+                    20.9
+                ]
+            }
+        ],
+        "video_len": 69.1
+    },
+    {
+        "video": "Anomaly_Warning/Arson047_x264.mp4",
+        "n_frames": 1442,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and its specific name is Arson. The anomaly event is the advertisement in the elevator being on fire, which is an unusual and suspicious occurrence. The basis for judging this anomaly is the unexpected and intentional nature of the fire, deviating from the normal and safe operation of an elevator advertisement. Please alert building management and emergency services immediately, as this fire poses a serious danger and needs to be addressed right away.",
+                "time": 44.317374002690244,
+                "timespan": [
+                    39.567,
+                    48.067
+                ]
+            }
+        ],
+        "video_len": 48.06666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson049_x264.mp4",
+        "n_frames": 386,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and its specific name is Arson. The anomaly event involves two individuals repeatedly throwing burning torches into a room, posing a significant threat to people and property. The basis for judging this anomaly is the intentional and reckless behavior of the individuals, which deviates from normal and safe behavior, and is considered a criminal offense. You should immediately alert the authorities and evacuate the area to ensure everyone\u2019s safety from the fire.",
+                "time": 4.439852767313862,
+                "timespan": [
+                    0.333,
+                    6.167
+                ]
+            }
+        ],
+        "video_len": 12.866666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Arson051_x264.mp4",
+        "n_frames": 1056,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Arson\". The anomaly event involves the man intentionally setting himself on fire by lighting a fire at one end of the aisle and simultaneously igniting his own body. The basis for judging this anomaly is the intentional and harmful act of self-immolation, which deviates from normal and safe human behavior. It\u2019s crucial to seek immediate help from mental health professionals, as self-harm indicates a serious need for support and intervention.",
+                "time": 23.12169154157373,
+                "timespan": [
+                    21.233,
+                    24.7
+                ]
+            }
+        ],
+        "video_len": 35.2
+    },
+    {
+        "video": "Anomaly_Warning/Arson052_x264.mp4",
+        "n_frames": 4766,
+        "fps": 30.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically Arson, which is a serious crime of intentionally setting fire to a building or structure. The anomaly event is described in the caption as \"The man set the door of the house on fire and ran\" between 35.567s-40.6s, indicating a deliberate and harmful action. The basis for judging this anomaly is the clear and intentional act of setting a house on fire, which is a dangerous and illegal behavior that deviates significantly from normal and acceptable human actions. It's crucial that you report this incident to the authorities immediately, as arson poses a serious threat to safety and property.",
+                "time": 54.98251445972506,
+                "timespan": [
+                    35.567,
+                    72.1
+                ]
+            }
+        ],
+        "video_len": 158.86666666666667
+    },
+    {
+        "video": "Anomaly_Warning/Bad.Boys.1995__#00-26-51_00-27-53_label_B2-0-0.mp4",
+        "n_frames": 1489,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as a \"Shooting\" anomaly. The anomaly events involve a sudden and intense shift in the scene, transitioning from a close-up of a person's face to a wider shot revealing a chaotic environment with feathers and debris, and later to a scene with broken glass and a lit candle, suggesting a violent or disturbing event. The basis for judging the anomaly is the abrupt change in scene and the presence of disturbing elements, such as broken glass and debris, which deviate from the initial calm atmosphere of the video. It's important to stay calm and immediately seek safety; contact local authorities and avoid the area to ensure your well-being.",
+                "time": 13.45360840794479,
+                "timespan": [
+                    9.125,
+                    16.667
+                ]
+            }
+        ],
+        "video_len": 62.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Bad.Boys.1995__#00-39-10_00-39-42_label_B2-0-0.mp4",
+        "n_frames": 769,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and its specific name is \"Shooting\". The anomaly events involve a man in a green jacket holding a gun, aiming it at an unseen target, suggesting a potential violent incident. The basis for judging this anomaly is the presence of a gun being aimed, which is an unusual and potentially harmful behavior in a normal everyday scenario. It\u2019s crucial to stay away from the area and call the authorities immediately to report this concerning situation.",
+                "time": 17.5920960984851,
+                "timespan": [
+                    13.083,
+                    20.667
+                ]
+            }
+        ],
+        "video_len": 32.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Bad.Boys.1995__#01-21-35_01-22-25_label_B1-0-0.mp4",
+        "n_frames": 1201,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Violence/Fighting\". The anomaly events involve physical altercations between individuals, including a scene where one person is overpowering another near a parked car, another scene where a person is being held by the neck with a gun pointed at them, and a third scene where two individuals are engaged in a physical fight in a dimly lit indoor space. The basis for judging this anomaly is the clear depiction of aggressive and harmful physical interactions between individuals, which deviates from normal and acceptable behavior. It\u2019s crucial to ensure everyone\u2019s safety; if you witness this kind of violence, please call the authorities immediately to handle the situation professionally.",
+                "time": 19.751747217128255,
+                "timespan": [
+                    11.917,
+                    23.958
+                ]
+            }
+        ],
+        "video_len": 50.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Bad.Boys.1995__#01-52-45_01-53-19_label_B2-0-0.mp4",
+        "n_frames": 817,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as a \"Shooting\" anomaly. The anomaly events involve multiple scenes depicting individuals holding guns, aiming, and firing, resulting in a person being shot and lying on the ground with a visible bullet wound. The basis for judging this anomaly is the presence of violent and harmful actions involving firearms, which deviate from normal and safe behavior. It\u2019s crucial to seek safety immediately and contact law enforcement if you witness such violent events; your safety and the safety of others should be the top priority.",
+                "time": 19.748145477476196,
+                "timespan": [
+                    15.083,
+                    21.375
+                ]
+            }
+        ],
+        "video_len": 34.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Bad.Boys.II.2003__#02-15-48_02-18-12_label_B2-G-0.mp4",
+        "n_frames": 3457,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Explosion\" and \"Shooting\" anomaly. The anomaly events involve a yellow vehicle breaching a security perimeter, driving aggressively, and eventually getting damaged with bullet holes and smoke emanating from it, suggesting recent combat activity. The basis for judging the anomaly is the presence of visual cues such as smoke, debris, and bullet holes on the vehicle, as well as the soldiers' high alertness and movement with firearms, indicating a violent and explosive event. Stay away from the area and seek shelter immediately; it\u2019s crucial to stay safe and report the situation to local authorities.",
+                "time": 15.510416639779434,
+                "timespan": [
+                    1.875,
+                    26.167
+                ]
+            }
+        ],
+        "video_len": 144.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/Black.Hawk.Down.2001__#01-21-39_01-22-24_label_G-0-0.mp4",
+        "n_frames": 1081,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is \"Explosion\". The anomaly event is a chaotic battlefield scene with explosions and smoke, where soldiers are seen taking cover and firing their weapons, occurring between 7.681s-10.625s. The basis for judging the anomaly is the sudden and intense increase in activity and destruction in the scene, deviating from the preceding scenes of cautious movement and preparation. If you find yourself in a chaotic environment like this, prioritize finding immediate cover and staying low until the situation stabilizes.",
+                "time": 7.8044347755605985,
+                "timespan": [
+                    1.792,
+                    10.625
+                ]
+            }
+        ],
+        "video_len": 45.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Black.Hawk.Down.2001__#01-23-28_01-24-47_label_B4-0-0.mp4",
+        "n_frames": 1897,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as the \"Riot\" anomaly. The anomaly events depict a chaotic and distressed crowd of people running through a war-torn area with damaged buildings, debris, smoke, and flames, showcasing a sense of urgency and panic. The basis for judging this anomaly is the sudden shift in the scene's tone and atmosphere, from a moment of care and rescue to a chaotic and desperate situation, indicating a disruption in the expected narrative flow. It\u2019s crucial to seek shelter immediately and stay clear of the area until the situation calms down; your safety is the top priority.",
+                "time": 15.431975986430484,
+                "timespan": [
+                    6.0,
+                    20.958
+                ]
+            }
+        ],
+        "video_len": 79.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Braveheart.1995__#00-41-00_00-44-30_label_B5-B1-0.mp4",
+        "n_frames": 5041,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically the \"Abuse\" and \"Fighting\" anomalies. The anomaly events involve physical altercations, confrontations, and distressed individuals, including scenes of a person being held by the neck, others lying injured or unconscious on the ground, and individuals engaging in intense conversations or confrontations. The basis for judging these anomalies is the depiction of harmful or violent behavior towards others, which deviates from the expected norms of respectful and peaceful human interaction. It sounds like a serious situation; ensure your safety first and seek help from authorities or trained professionals to intervene appropriately.",
+                "time": 92.48332583727482,
+                "timespan": [
+                    60.583,
+                    104.958
+                ]
+            }
+        ],
+        "video_len": 210.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/Braveheart.1995__#02-19-30_02-20-55_label_B1-0-0.mp4",
+        "n_frames": 2041,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as \"Fighting\". The anomaly events involve intense and potentially violent interactions between individuals, which are not explicitly shown in the provided captions but can be inferred from the context of people standing in front of a burning structure, serious conversations, and an intense and mysterious atmosphere. The basis for judging the anomaly is that the captions suggest a narrative of conflict or urgency, deviating from the expected peaceful and calm atmosphere of a historical or fantasy setting. It might be wise to distance yourself from the conflict and seek a safe space until things calm down.",
+                "time": 74.15630091244627,
+                "timespan": [
+                    65.792,
+                    78.75
+                ]
+            }
+        ],
+        "video_len": 85.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Braveheart.1995__#02-28-15_02-29-59_label_B1-0-0.mp4",
+        "n_frames": 2497,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Fighting\". The anomaly events involve multiple scenes of intense physical altercations, including chaotic battle scenes with armored soldiers, individuals being restrained, and people engaging in hand-to-hand combat, with visible signs of injury and bloodshed. The basis for judging this anomaly is the presence of violent and aggressive behavior, which deviates from normal, peaceful human interactions. It sounds like a really dangerous situation; please prioritize your safety and distance yourself from the chaos if you can.",
+                "time": 25.98303418701345,
+                "timespan": [
+                    11.708,
+                    36.333
+                ]
+            }
+        ],
+        "video_len": 104.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Braveheart.1995__#02-43-01_02-46-50_label_B5-0-0.mp4",
+        "n_frames": 5497,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as \"Abuse\" or \"Torture Depiction\". The anomaly events involve the depiction of a person being subjected to various forms of medieval torture and punishment, including being strapped to a wooden plank, lying on a wooden cross with outstretched arms, and awaiting execution by axe. The basis for judging this anomaly is the presence of explicit and disturbing content that may be harmful or offensive to some viewers. It\u2019s really concerning to hear about that kind of content; it\u2019s important to avoid sharing or engaging with material that depicts abuse or torture, and consider reporting it to the appropriate platforms for the safety and well-being of others.",
+                "time": 14.838838388901157,
+                "timespan": [
+                    5.375,
+                    21.333
+                ]
+            }
+        ],
+        "video_len": 229.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-03-40_00-03-55_label_B1-B2-0.mp4",
+        "n_frames": 360,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Violence\" anomaly. The anomaly events involve fighting and shooting, where a man in a black jacket and red hood grabs another man by the neck, followed by a close-up of a rifle being fired, and then the man with braided hair aims a gun at someone off-screen, ultimately resulting in the man in the gray shirt being on the ground. The basis for judging this anomaly is the presence of aggressive and harmful physical interactions between individuals, which deviate from normal and peaceful human behavior. It\u2019s crucial to seek safety and avoid the area; consider calling the authorities to report the incident and ensure everyone\u2019s well-being.",
+                "time": 12.74762654944313,
+                "timespan": [
+                    10.917,
+                    13.458
+                ]
+            }
+        ],
+        "video_len": 15.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-04-52_00-05-38_label_B1-0-0.mp4",
+        "n_frames": 1104,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as \"Fighting\" anomaly. The anomaly events involve a series of intense action scenes and physical altercations between individuals, including martial arts moves, combat, and acrobatic evasions, occurring in various dimly lit settings such as hallways, corridors, and rooms. The basis for judging this anomaly is the presence of violent and aggressive behavior, deviating from normal human interactions, which is a characteristic indicator of the \"Fighting\" anomaly. It's crucial to prioritize your safety\u2014try to remove yourself from the situation and contact authorities if necessary.",
+                "time": 33.581309476097374,
+                "timespan": [
+                    17.375,
+                    46.0
+                ]
+            }
+        ],
+        "video_len": 46.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-08-07_00-08-27_label_G-0-0.mp4",
+        "n_frames": 480,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Explosion\" anomaly. The anomaly event occurs between 9.667s-11.917s, where a large explosion is seen occurring behind the shirtless man in gray pants as he leaps over a gap towards another rooftop. The basis for judging this anomaly is the sudden and unexpected appearance of a large explosion in an otherwise ordinary rooftop scene, deviating from the expected sequence of events. It\u2019s crucial to ensure your safety\u2014move away from the explosion site and seek shelter immediately!",
+                "time": 10.010265481575074,
+                "timespan": [
+                    5.167,
+                    11.917
+                ]
+            }
+        ],
+        "video_len": 20.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-15-12_00-15-27_label_B2-0-0.mp4",
+        "n_frames": 360,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Shooting\" anomaly. The anomaly event is a potential shooting incident, as the man in the suit is holding a gun and pointing it forward, suggesting a threatening or violent situation. The basis for judging this anomaly is the unusual and potentially harmful behavior of the individual holding the gun, which deviates from the expected norms of a medical or scientific setting. Please seek safety immediately and contact law enforcement to report the situation.",
+                "time": 11.976636231409309,
+                "timespan": [
+                    10.833,
+                    13.042
+                ]
+            }
+        ],
+        "video_len": 15.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-16-02_00-16-26_label_B2-0-0.mp4",
+        "n_frames": 576,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Shooting\" anomaly. The anomaly events involve a man in a dark suit holding a gun, appearing to be in a defensive or confrontational stance, and reloading his weapon, suggesting a violent confrontation or shootout in an industrial and office setting. The basis for judging this anomaly is the presence of a gun and the individual's aggressive posture, indicating a potentially harmful and dangerous situation. If you find yourself in a situation like this, seek immediate shelter and contact local authorities to report the incident for your safety.",
+                "time": 15.276817817619339,
+                "timespan": [
+                    9.875,
+                    19.25
+                ]
+            }
+        ],
+        "video_len": 24.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-17-12_00-17-40_label_B2-0-0.mp4",
+        "n_frames": 672,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Shooting\" anomaly. The anomaly events involve armed individuals pursuing and shooting at a man in a suit, causing him distress and forcing him to evade the attackers in a laboratory setting. The basis for judging this anomaly is the sudden and intense violent activity, which deviates from the normal expectations of a scientific or industrial environment. Immediately seek shelter and call the authorities; your safety is the top priority in this dangerous situation.",
+                "time": 6.060258982270304,
+                "timespan": [
+                    0.0,
+                    8.5
+                ]
+            }
+        ],
+        "video_len": 28.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-35-46_00-36-04_label_B1-0-0.mp4",
+        "n_frames": 432,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as \"Physical Altercation\" or \"Fighting\". The anomaly events involve a man in a gray shirt being restrained and pushed to the ground by two individuals in military camouflage uniforms, with the man appearing distressed and his hands bound. The basis for judging this anomaly is the clear visual evidence of physical force and restraint being used against the individual, deviating from normal and peaceful human interactions. It's crucial to intervene safely or alert authorities, as this situation involves distress and possible harm to the individual in a gray shirt.",
+                "time": 14.410291851180208,
+                "timespan": [
+                    12.292,
+                    15.958
+                ]
+            }
+        ],
+        "video_len": 18.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-44-28_00-44-46_label_B1-0-0.mp4",
+        "n_frames": 432,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Fighting\". The anomaly events involve a physical altercation between two individuals, one wearing a white tank top and the other wearing a gray shirt, in an industrial or warehouse-like space, which escalates to the point where one of them is restrained with handcuffs. The basis for judging this anomaly is the sudden and intense physical conflict between the two individuals, which deviates from normal and expected behavior in a given environment. It\u2019s important to de-escalate the situation safely; call for help and ensure that everyone stays at a safe distance until assistance arrives.",
+                "time": 6.3797257506238045,
+                "timespan": [
+                    3.875,
+                    7.917
+                ]
+            }
+        ],
+        "video_len": 18.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-47-11_00-48-52_label_B1-0-0.mp4",
+        "n_frames": 2424,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, and its specific name is \"Fighting\". The anomaly events involve a series of intense physical confrontations between two individuals, often in a dimly lit, cluttered, and graffiti-covered environment, with the participants exchanging blows, grappling, and using various objects as weapons. The basis for judging this anomaly is the repeated and sustained depiction of violent physical altercations throughout the video, which deviates from typical norms of human interaction and behavior. It's important to prioritize your safety\u2014try to remove yourself from the situation and, if possible, seek help from authorities or bystanders.",
+                "time": 62.37407408302357,
+                "timespan": [
+                    26.0,
+                    85.0
+                ]
+            }
+        ],
+        "video_len": 101.0
+    },
+    {
+        "video": "Anomaly_Warning/Brick.Mansions.2014__#00-59-15_00-59-39_label_B1-0-0.mp4",
+        "n_frames": 576,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Fighting\" anomaly. The anomaly events involve a confrontation between two men in an industrial area, where one man is attacked with a baseball bat and falls to the ground, and another scene where a man smashes a car's windshield with his fists. The basis for judging this anomaly is the presence of violent and aggressive behavior between individuals, which deviates from normal, peaceful human interactions. If you witness such aggressive behavior, it\u2019s crucial to prioritize safety and call the authorities immediately rather than intervene directly.",
+                "time": 10.970481337270112,
+                "timespan": [
+                    7.75,
+                    12.25
+                ]
+            }
+        ],
+        "video_len": 24.0
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#00-04-41_00-06-12_label_B1-0-0.mp4",
+        "n_frames": 2185,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, and the specific name of the anomaly is \"Fighting\". The anomaly events involve scenes of uniformed officers running down the street, holding batons, and people pushing against a wall, indicating a sense of conflict and tension. The basis for judging the anomaly is the sudden shift from peaceful and festive scenes to scenes of chaos and potential violence, deviating from the overall calm and social atmosphere depicted in the video. It\u2019s crucial to stay safe and away from the area of conflict; consider seeking shelter until the situation calms down.",
+                "time": 27.318759675254974,
+                "timespan": [
+                    10.167,
+                    38.583
+                ]
+            }
+        ],
+        "video_len": 91.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#00-36-00_00-37-14_label_B2-0-0.mp4",
+        "n_frames": 1778,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, and the specific name of the anomaly is \"Shooting\". The anomaly events involve a person in a white shirt being threatened and eventually shot multiple times by an individual wielding a gun, with scenes depicting fear, distress, and injury. The basis for judging the anomaly is the sudden and intense violence exhibited in the video, which deviates from normal and expected human behavior, indicating a potentially harmful or dangerous situation. It\u2019s important to seek help from professionals and report this incident to the authorities immediately, as safety and mental well-being should be your top priority.",
+                "time": 57.91111218692364,
+                "timespan": [
+                    53.042,
+                    62.583
+                ]
+            }
+        ],
+        "video_len": 74.08333333333333
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#00-39-01_00-41-00_label_B2-0-0.mp4",
+        "n_frames": 2857,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Shooting\" anomaly. The anomaly events involve multiple scenes of armed soldiers and individuals in distress or surrendering, with close-ups of machine guns and firearms being fired, resulting in chaotic and destructive environments with debris and shattered glass, and individuals lying on the ground amidst scattered money and guns. The basis for judging this anomaly is the presence of violent and destructive events involving firearms and armed personnel, which deviate from normal, peaceful scenarios. It\u2019s crucial to seek safety immediately and stay informed through reliable news sources; avoid the area if possible.",
+                "time": 77.69218560858175,
+                "timespan": [
+                    62.0,
+                    91.875
+                ]
+            }
+        ],
+        "video_len": 119.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#01-13-41_01-16-02_label_B2-G-0.mp4",
+        "n_frames": 3385,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically the \"Violence\" anomaly. The anomaly events include multiple instances of shooting and explosions, such as individuals firing weapons, a boat being hit by an RPG, and a burning boat on the river. The basis for judging this anomaly is the presence of violent and destructive events depicted in the video, which are unusual and potentially disturbing compared to typical video content. It\u2019s crucial to stay safe and seek shelter immediately; avoid the area and report the situation to the authorities if you can.",
+                "time": 49.01172206943127,
+                "timespan": [
+                    21.833,
+                    63.375
+                ]
+            }
+        ],
+        "video_len": 141.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#01-46-45_01-47-50_label_B5-B2-0.mp4",
+        "n_frames": 1561,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Shooting\". The anomaly events involve a tense confrontation between two individuals, with one person holding a gun and pointing it at the other, creating a dramatic and urgent atmosphere. The basis for judging this anomaly is that the video depicts a scenario where a person is being threatened with a gun, which is a harmful and dangerous situation that may lead to physical harm or violence. If you witness a shooting or someone being threatened with a gun, it's crucial to stay calm, seek safety immediately, and call the authorities without intervening directly.",
+                "time": 7.579634597617577,
+                "timespan": [
+                    0.0,
+                    14.333
+                ]
+            }
+        ],
+        "video_len": 65.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/Bullet.in.the.Head.1990__#01-59-31_02-01-50_label_B6-B2-G.mp4",
+        "n_frames": 3337,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically an \"Explosion\" and \"Car accident\" anomaly. The anomaly events involve a container emitting sparks and smoke, followed by an explosion, and multiple cars being engulfed in flames, with one car heavily damaged and moving forward, leaving a trail of fire behind it. The basis for judging the anomaly is that the video depicts sudden, intense, and dangerous events that deviate from normal, everyday scenes, such as people riding bicycles on a wet road at night. Please stay away from the area and alert emergency services immediately, as this situation poses serious hazards to everyone nearby.",
+                "time": 119.30587138462582,
+                "timespan": [
+                    106.75,
+                    124.25
+                ]
+            }
+        ],
+        "video_len": 139.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/Casino.Royale.2006__#00-02-13_00-03-13_label_B1-B2-0.mp4",
+        "n_frames": 1441,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as \"Violence\" and \"Physical Confrontation\". The anomaly events involve physical altercations, overpowering, and forceful holding of individuals, including a child, in a public restroom setting. The basis for judging this anomaly is the presence of aggressive and harmful behavior towards others, deviating from normal and acceptable social norms. It's crucial to intervene safely and call for help if you witness such violence, especially involving a child; ensure everyone's safety first.",
+                "time": 37.19774538995324,
+                "timespan": [
+                    19.583,
+                    43.25
+                ]
+            }
+        ],
+        "video_len": 60.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Casino.Royale.2006__#00-12-26_00-12-36_label_G-0-0.mp4",
+        "n_frames": 241,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically an Explosion event. The anomaly event summary is that an explosion may occur during the intense fire, potentially causing a sudden and violent release of energy, which could be life-threatening to the person climbing the ladder. The basis for judging the anomaly is the presence of intense flames, smoke, and debris, which creates a high-risk environment prone to unexpected and catastrophic events. Get to safety immediately and avoid climbing the ladder; the risk of explosion in this situation is too high.",
+                "time": 6.148663610228535,
+                "timespan": [
+                    4.458,
+                    7.5
+                ]
+            }
+        ],
+        "video_len": 10.041666666666666
+    },
+    {
+        "video": "Anomaly_Warning/Casino.Royale.2006__#00-12-36_00-12-46_label_B2-0-0.mp4",
+        "n_frames": 240,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, specifically identified as a \"Shooting\" event. The anomaly events involve a man aiming a gun at individuals, including two people standing on the ground and another person lying on the ground, with the scene shifting to show the man taking aim at the person on the ground. The basis for judging this anomaly is the presence of a gun being aimed and potentially fired, which is a harmful and violent act that deviates from normal, safe behavior. It\u2019s crucial to prioritize safety; please find a secure location and contact emergency services immediately.",
+                "time": 3.532057469907286,
+                "timespan": [
+                    0.542,
+                    6.042
+                ]
+            }
+        ],
+        "video_len": 10.0
+    },
+    {
+        "video": "Anomaly_Warning/Casino.Royale.2006__#00-13-56_00-14-44_label_B1-0-0.mp4",
+        "n_frames": 1152,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Fighting\" anomaly. The anomaly events involve two individuals engaging in physical altercations on a bridge or elevated structure, with one person attempting to overpower the other, and the sequence of images capturing various stages of their struggle, including grappling. The basis for judging this anomaly is the visual evidence of physical violence and aggressive behavior between the two individuals, which deviates from normal and expected human behavior in a public setting. If you witness a fight on a bridge, prioritize your safety and find help by calling local authorities instead of intervening directly.",
+                "time": 19.81304103671517,
+                "timespan": [
+                    15.75,
+                    21.292
+                ]
+            }
+        ],
+        "video_len": 48.0
+    },
+    {
+        "video": "Anomaly_Warning/Casino.Royale.2006__#02-09-05_02-09-47_label_B2-0-0.mp4",
+        "n_frames": 1009,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Shooting\" anomaly. The anomaly events involve a man firing a weapon, creating sparks and smoke, in the outdoor area with classical architecture (15.188s-18.084s), and a man holding a gun, aiming it out of a doorway (12.292s-15.188s) and out of a window (18.084s-20.979s). The basis for judging this anomaly is the explicit depiction of gunfire and potential harm to individuals, which deviates from normal, everyday human behavior. This situation is extremely dangerous; please seek immediate help from law enforcement to ensure everyone's safety.",
+                "time": 19.19083393357058,
+                "timespan": [
+                    12.292,
+                    23.875
+                ]
+            }
+        ],
+        "video_len": 42.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.Of.Men.2007__#00-11-30_00-12-02_label_B1-0-0.mp4",
+        "n_frames": 769,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Physical Aggression\" anomaly. The anomaly events involve a potentially confrontational interaction in the diner scene (17.291s-20.437s) where the person in the blue shirt appears to be either pushing or playfully confronting the person in the red shirt. The basis for judging this anomaly is the unusual and potentially aggressive physical contact between the two individuals, deviating from the otherwise friendly and social interactions depicted in the video. It looks like things got a bit heated at the diner; maybe it\u2019s a good time to step in and de-escalate the situation before it goes too far.",
+                "time": 20.091048866592246,
+                "timespan": [
+                    11.0,
+                    23.583
+                ]
+            }
+        ],
+        "video_len": 32.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.Of.Men.2007__#00-24-29_00-25-30_label_B1-0-0.mp4",
+        "n_frames": 1465,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Physical Altercation\" or \"Fighting\". The anomaly events involve a group of individuals engaging in a physical altercation, with some attempting to restrain or assist others, and a person wearing a light-colored shirt struggling while being held from behind. The basis for judging this anomaly is the presence of aggressive and violent behavior among the individuals in the video, which deviates from the expected norm of a casual, social gathering depicted in the initial scenes. It\u2019s important to stay safe; if you see a fight, avoid the area and call for help if necessary.",
+                "time": 47.96297343950497,
+                "timespan": [
+                    41.5,
+                    54.125
+                ]
+            }
+        ],
+        "video_len": 61.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-19-34_00-20-05_label_B2-B5-0.mp4",
+        "n_frames": 745,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Based on the video caption, an anomaly event exists, specifically a \"Shooting\" anomaly. The anomaly event summary is that a revolver is shown lying on the ground, suggesting a potential shooting incident, and the scene earlier shows a person injured on the ground, possibly related to the shooting. The basis for judging this anomaly is the presence of a revolver on the ground and an injured person in the preceding scene, implying a possible violent incident. It\u2019s crucial to report this situation to the authorities immediately, as the presence of a weapon and an injured person indicates a potential emergency that requires professional intervention.",
+                "time": 2.759049998969646,
+                "timespan": [
+                    0.0,
+                    5.083
+                ]
+            }
+        ],
+        "video_len": 31.041666666666668
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-27-11_00-28-05_label_B5-0-0.mp4",
+        "n_frames": 1296,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There is an anomaly in the video, specifically an \"Intimacy Anomaly\". The anomaly event involves a close-up shot of two individuals in an intimate embrace, transitioning to a wider shot revealing them on a bed, which may be inappropriate or offensive to some viewers. The basis for judging this anomaly is that the content exceeds a reasonable threshold of intimacy and may be considered explicit or non-consensual. It's important to consider the sensitivities of your audience; you might want to review the content for appropriateness and ensure that it aligns with community standards.",
+                "time": 6.944673744381011,
+                "timespan": [
+                    3.333,
+                    8.917
+                ]
+            }
+        ],
+        "video_len": 54.0
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-31-35_00-32-30_label_B2-0-0.mp4",
+        "n_frames": 1321,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Based on the provided captions, it appears that an anomaly exists, specifically a \"Shooting\" anomaly. The anomaly events involve no explicit descriptions of shooting, but rather a sequence of scenes featuring people running across open areas, which may suggest a sense of urgency or panic, potentially hinting at a violent or chaotic event. The basis for judging the anomaly is the sudden and unexplained changes in scene and the characters' hurried movements, which deviate from the expected narrative flow and create a sense of tension and uncertainty. In case of a shooting or similar emergency, seek shelter immediately, stay low, and stay quiet until it is safe to move.",
+                "time": 25.869715660312004,
+                "timespan": [
+                    20.042,
+                    31.167
+                ]
+            }
+        ],
+        "video_len": 55.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-38-48_00-39-30_label_B2-0-0.mp4",
+        "n_frames": 1009,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is \"Shooting\". The anomaly event is a man in a yellow striped shirt pointing a gun at another man who is wearing a blue and yellow striped sweater, with the man with the gun appearing to be in a defensive stance, while the other man reacts by falling backward onto the floor. The basis for judging the anomaly is the sudden and unusual appearance of a gun and the defensive/aggressive behavior of the individuals involved, which deviates from the normal and expected behavior in a typical everyday situation. It\u2019s crucial to prioritize safety; seek immediate help from authorities and find a secure location away from the situation.",
+                "time": 27.178417259545746,
+                "timespan": [
+                    18.708,
+                    30.792
+                ]
+            }
+        ],
+        "video_len": 42.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-54-17_00-55-05_label_B2-0-0.mp4",
+        "n_frames": 1152,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as a \"Shooting\" anomaly. The anomaly event summary is that a person wearing a red and white floral shirt is holding a gun and addressing a group of people seated at a table, indicating a potentially violent and threatening situation. The basis for judging this anomaly is the presence of a gun being held by an individual in a tense and confrontational setting, which deviates from normal and safe behavior. It\u2019s crucial to prioritize safety\u2014immediately call the authorities and try to leave the area if it\u2019s safe to do so.",
+                "time": 35.40059584808,
+                "timespan": [
+                    28.917,
+                    39.917
+                ]
+            }
+        ],
+        "video_len": 48.0
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#00-59-55_01-02-35_label_B5-B2-0.mp4",
+        "n_frames": 3841,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Violence/Gun Violence\" and \"Child Abuse\". The anomaly events include scenes of a man pointing a gun at children, individuals engaging in physical altercations, and a close-up of a hand gripping a gun tightly, suggesting a threatening and harmful environment. The basis for judging this anomaly is the depiction of harmful and illegal activities, particularly involving children, which are universally recognized as morally and ethically reprehensible. It\u2019s crucial to report any incidents of violence or child abuse you witness to the authorities immediately to ensure the safety of those involved.",
+                "time": 25.17177128981096,
+                "timespan": [
+                    1.25,
+                    37.542
+                ]
+            }
+        ],
+        "video_len": 160.04166666666666
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#01-23-10_01-24-00_label_B1-0-0.mp4",
+        "n_frames": 1201,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as \"Fighting/Violence\". The anomaly events involve multiple instances of physical altercations between individuals, including grabbing, resisting, and chaotic scenes with people interacting aggressively in a kitchen setting, as well as a person being bound and another searching for something or someone in a dimly lit room. The basis for judging this anomaly is the presence of violent and aggressive behavior among individuals, which deviates from normal, peaceful human interactions. It\u2019s important to prioritize safety; try to separate those involved and seek help immediately to de-escalate the situation.",
+                "time": 20.568807422896324,
+                "timespan": [
+                    8.042,
+                    26.417
+                ]
+            }
+        ],
+        "video_len": 50.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#01-26-21_01-27-25_label_B2-0-0.mp4",
+        "n_frames": 1537,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists, and the specific name of the anomaly is \"Shooting\". The anomaly events involve a person holding a gun and pointing it forward, followed by a chaotic fight sequence with multiple individuals involved in a physical altercation, and then the person aiming the gun again, suggesting a continuation of the conflict. The basis for judging the anomaly is the presence of a gun and the depiction of violent behavior, which deviates from the norm of everyday human interactions and suggests a dangerous or threatening situation. Please seek shelter immediately and contact the authorities to report the situation, as your safety is the top priority.",
+                "time": 19.48381537207132,
+                "timespan": [
+                    5.5,
+                    27.042
+                ]
+            }
+        ],
+        "video_len": 64.04166666666667
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#01-37-13_01-38-30_label_G-B2-0.mp4",
+        "n_frames": 1850,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically the \"Violence\" anomaly. The anomaly events include multiple scenes of chaotic and violent confrontations, such as people running and firing weapons, a person aiming and firing a revolver, and individuals engaging in a violent confrontation with flames and debris scattered around. The basis for judging the anomaly is the presence of explicit and intense depictions of violence, explosions, and fires throughout the video, which deviate from normal or expected behavior in a typical video. It's important to stay safe and avoid dangerous situations; try to find a secure location and seek help if needed.",
+                "time": 37.70333605625005,
+                "timespan": [
+                    11.375,
+                    51.208
+                ]
+            }
+        ],
+        "video_len": 77.08333333333333
+    },
+    {
+        "video": "Anomaly_Warning/City.of.God.2002__#01-38-31_01-39-00_label_B2-0-0.mp4",
+        "n_frames": 697,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There is an anomaly in the video, specifically a \"Shooting\" anomaly. The anomaly event summary is that there may be shooting events occurring in the chaotic industrial or warehouse setting, amidst the flames and debris, although the exact details are unclear. The basis for judging this anomaly is that the caption mentions \"anomaly events (Shooting)\" which implies that the video may contain unexpected or unusual audio or visual cues indicative of gunfire or violence. Stay safe and find a secure location away from the chaos; it\u2019s crucial to contact local authorities immediately and report what you see.",
+                "time": 2.336371908349628,
+                "timespan": [
+                    0.0,
+                    3.583
+                ]
+            }
+        ],
+        "video_len": 29.041666666666668
+    },
+    {
+        "video": "Anomaly_Warning/Crank.Dircut.2006__#0-41-11_0-42-10_label_B6-0-0.mp4",
+        "n_frames": 1417,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "There is an anomaly event, specifically a \"Car Accident\" anomaly. The anomaly event is not explicitly shown in the provided video caption, but it is mentioned as a possible occurrence. The basis for judging the anomaly is the presence of unusual or unexpected events that deviate from the normal sequence of actions or scenes depicted in the video, such as a sudden collision or crash. If you or anyone else is involved in a car accident, make sure to check for injuries first and contact emergency services immediately.",
+                "time": 41.06429508435815,
+                "timespan": [
+                    37.25,
+                    43.375
+                ]
+            }
+        ],
+        "video_len": 59.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Crank.Dircut.2006__#01-01-10_01-02-01_label_B2-0-0.mp4",
+        "n_frames": 1225,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as a \"Shooting\" anomaly. The anomaly events involve a tense scene where one individual points a gun at another, who appears to be in distress, and another individual is seen running away from the scene. The basis for judging this anomaly is the presence of a gun being pointed at someone, which is a clear indicator of a potentially violent and dangerous situation. If you witness a shooting or a situation involving a gun, immediately find a safe place and call the authorities without approaching the scene.",
+                "time": 47.612660288483156,
+                "timespan": [
+                    43.167,
+                    51.042
+                ]
+            }
+        ],
+        "video_len": 51.041666666666664
+    },
+    {
+        "video": "Anomaly_Warning/Crank.Dircut.2006__#01-04-45_01-05-36_label_B2-0-0.mp4",
+        "n_frames": 1224,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as a \"Shooting\" anomaly. The anomaly events involve a man holding a gun near a fence with a sign that reads \"this property closed to the public\" and a man in a suit holding a gun, standing behind a chain-link fence, suggesting a potentially violent confrontation. The basis for judging this anomaly is the presence of a gun being held by individuals in a tense and confrontational context, which deviates from normal and safe behavior. It\u2019s crucial to stay away from the area and immediately report the situation to local authorities for everyone\u2019s safety.",
+                "time": 27.695129690314076,
+                "timespan": [
+                    19.833,
+                    33.417
+                ]
+            }
+        ],
+        "video_len": 51.0
+    },
+    {
+        "video": "Anomaly_Warning/Crank.Dircut.2006__#01-06-54_01-07-05_label_B6-B2-0.mp4",
+        "n_frames": 264,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and the specific name of the anomaly is a Car Accident. The anomaly event is a car crashing into the side of a building, resulting in the car overturning and debris scattered around, with no visible people in the immediate vicinity. The basis for judging this anomaly is the unusual and potentially hazardous nature of the event, deviating from normal traffic patterns and posing a risk to people's safety. Be sure to keep a safe distance from the scene and contact the authorities to report the accident; safety is the top priority right now.",
+                "time": 7.811419536931034,
+                "timespan": [
+                    6.375,
+                    8.458
+                ]
+            }
+        ],
+        "video_len": 11.0
+    },
+    {
+        "video": "Anomaly_Warning/Deadpool.2.2018__#0-01-55_0-02-34_label_G-0-0.mp4",
+        "n_frames": 938,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "The anomaly exists and is specifically identified as an \"Explosion\" anomaly. The anomaly events involve a series of intense and vivid explosions depicted throughout the video, including a person engulfed in flames surrounded by exploding barrels, a chaotic mix of fire and smoke, and multiple close-ups of flames and debris. The basis for judging this anomaly is the sudden and intense release of energy characterized by bright colors, loud sounds, and rapid movement, which deviates significantly from normal video content. Please ensure you stay at a safe distance from the explosions and seek shelter if you are in the vicinity; it\u2019s crucial to prioritize your safety and call emergency services if needed.",
+                "time": 25.587586607581486,
+                "timespan": [
+                    13.583,
+                    37.292
+                ]
+            }
+        ],
+        "video_len": 39.083333333333336
+    },
+    {
+        "video": "Anomaly_Warning/Deadpool.2.2018__#0-14-23_0-16-20_label_B1-B2-0.mp4",
+        "n_frames": 2810,
+        "fps": 24.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "An anomaly exists, specifically a \"Violence\" anomaly. The anomaly events involve various physical altercations and threatening situations, including a person wielding a large knife, individuals engaging in intense fights, and a person holding a gun, with scenes transitioning rapidly between different settings. The basis for judging this anomaly is the presence of explicit and implicit violent acts, which deviate from normal, everyday behavior and create a sense of tension and danger. It\u2019s crucial to prioritize your safety in such a violent situation; try to distance yourself from the altercations and contact authorities immediately.",
+                "time": 40.50633546060594,
+                "timespan": [
+                    20.75,
+                    50.417
+                ]
+            }
+        ],
+        "video_len": 117.08333333333333
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)0.mp4",
+        "original_anno": "A guy jumps onto a bed where his son is. When the guy jumps, the son flies up and hits the wall.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it looks like that jump turned into an unexpected stunt! It's great to have fun with your son, but maybe it's time to remind him about safe playtime boundaries to prevent any accidents like that from happening again. Always make sure the jumping happens on a soft surface, like the floor or a trampoline, to keep it safe and fun!",
+                "time": 3.4019985915931343,
+                "timespan": [
+                    2.714329,
+                    3.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.6369703036369705,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)10.mp4",
+        "original_anno": "a little boy is running around with cover on head Boy trips over toys and falls.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I saw that little boy darting around with a cover over his head, having the time of his life, but then he tripped over some toys and took a tumble. It might be a good idea to create a safe play area and make sure the toys are picked up, so he can dash around safely without any more falls!",
+                "time": 5.613983489436247,
+                "timespan": [
+                    3.53317,
+                    7.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.307307307307307,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)12.mp4",
+        "original_anno": "A girl tries to pour some vinegar to make a baking soda vinegar volcano. The girl loses her balance and falls onto the floor, spilling vinegar on herself and the floor.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like you had quite the spill while trying to create your baking soda volcano. Accidents happen, but next time, make sure to steady yourself and perhaps use a funnel to help pour the vinegar safely. That way, you can keep the fun going without the mess and keep your balance!",
+                "time": 6.412239264035946,
+                "timespan": [
+                    2.444215,
+                    8.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.974641307974641,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)13.mp4",
+        "original_anno": "A woman was running in the house to stop her child from grabbing something. The woman ran into a chair and lost her balance, causing her to fall into the wall in front of her.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like you had a bit of a tumble while trying to keep an eye on your little one! Remember, it's important to take a moment to slow down, especially when you're in a rush\u2014perhaps try to create a designated play area for your child to keep them safe and give you peace of mind!",
+                "time": 6.1843995348546175,
+                "timespan": [
+                    4.30384,
+                    7.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.173840507173841,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)15.mp4",
+        "original_anno": "A baby was trying to eat a bowl of food. The baby titled the bowl on to their face to eat the food and the food spilled all over the face.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh dear! It seems like the baby got a bit too enthusiastic with their mealtime, turning the bowl into a messy facial feast! It might be a good idea to offer the baby a spoon next time and encourage them to try using it to scoop the food instead, making mealtime a little tidier and just as fun!",
+                "time": 12.501698979917784,
+                "timespan": [
+                    3.518765,
+                    16.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 15.915915915915917,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)16.mp4",
+        "original_anno": "A child was walking around with a puppy following them. The puppy bit the child in the crotch.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, that sounds like quite a surprising moment! It's important to keep a close eye on interactions between pets and kids, as they can sometimes lead to unexpected bites. Make sure to teach your child how to greet and play with the puppy gently, and supervise their interactions to avoid any further incidents.",
+                "time": 4.473685706975557,
+                "timespan": [
+                    3.745938,
+                    5.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.838171504838171,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)19.mp4",
+        "original_anno": "The child was tring to touch the ice. They tipped over and hit the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like your child had a little tumble while trying to touch the ice. It's a great idea to remind them to be careful around slippery surfaces, and maybe next time, encourage them to keep a safe distance or wear some protective gear to prevent any falls!",
+                "time": 5.436353874186695,
+                "timespan": [
+                    3.648133,
+                    6.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.439773106439773,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)26.mp4",
+        "original_anno": "The kid was trying to bench press The bench press ended up falling on top of him",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like that kid had quite the scare when the bench press fell on him! It's important to always use proper safety measures when lifting weights, like having a spotter or using lighter weights until you feel more confident. Maybe encourage him to focus on safety and get some help next time!",
+                "time": 11.127386550829117,
+                "timespan": [
+                    1.578277,
+                    15.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 15.048381715048382,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)27.mp4",
+        "original_anno": "For a child to pop out of a Christmas gift. The child lost their balance and fell backwards.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that little one had a bit of a tumble after jumping out of the Christmas gift! Just remind them to take things slow next time, and ensure there\u2019s a soft landing area nearby for any surprise entrances. A little practice with balance can go a long way in making their holiday antics safer and more fun!",
+                "time": 8.226383416532961,
+                "timespan": [
+                    3.5343,
+                    12.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 12.145478812145479,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)32.mp4",
+        "original_anno": "Girl is doing a play in an outfit. Girl throws up in front of audience.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like that was a really tough moment during the play! It can be really overwhelming to experience something like that in front of an audience. Just remember, it's totally okay to feel embarrassed, but try to focus on your strength in getting through it\u2014everyone has off moments, and they will likely admire your courage to keep going!",
+                "time": 8.120467384021424,
+                "timespan": [
+                    3.306458,
+                    12.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 12.045378712045379,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)4.mp4",
+        "original_anno": "A kid is trying to catch pizza dough. It lands on her head instead.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that kid had a fun yet messy moment trying to catch the pizza dough, only for it to land right on her head instead. I'd say it's a great opportunity to laugh it off and maybe have a little dough-throwing contest with friends to make it even more fun!",
+                "time": 6.290173453678129,
+                "timespan": [
+                    2.188812,
+                    8.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.80880880880881,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)5.mp4",
+        "original_anno": "Two boys are trying to walk The boys fall over on the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I saw those two boys trying to walk, and then they both fell over onto the ground! It happens to the best of us\u2014sometimes you just lose your balance. Don't worry too much; just get up, dust yourselves off, and maybe take a moment to laugh about it!",
+                "time": 8.80665221171834,
+                "timespan": [
+                    2.427987,
+                    12.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 12.212212212212213,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/34 Funny Kid Nominees - FailArmy Hall Of Fame (May 2017)9.mp4",
+        "original_anno": "A kid was trying to jump on water on a slip and slide. He jumped too far and landed on grass.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that kid took quite a leap but ended up landing on grass instead of the slip and slide. It's all fun and games until someone takes a tumble, right? I\u2019d suggest having him practice jumping on the slip and slide a bit more, maybe start with shorter jumps to get comfortable and avoid those grassy surprises!",
+                "time": 3.9125876134822715,
+                "timespan": [
+                    3.039483,
+                    4.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.2042042042042045,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy11.mp4",
+        "original_anno": "A can is pulling a child on a sledding on the snow The child fell from the sledding",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, I saw that! It looks like the child took a tumble while sledding. Just remind them to be careful and take it slow next time, and maybe check if they\u2019re bundled up enough to stay warm while having fun!",
+                "time": 6.98300537483637,
+                "timespan": [
+                    4.614493,
+                    7.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.807807807807808,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy12.mp4",
+        "original_anno": "A girl tries to do splits on a slip and slide She slips and falls over",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite the unexpected moment on the slip and slide! Remember, it's all about having fun and being safe; maybe try stretching first before diving into those splits, or stick to a gentler way to enjoy the slide!",
+                "time": 4.8849661865051015,
+                "timespan": [
+                    1.620922,
+                    6.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.4731398064731405,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy14.mp4",
+        "original_anno": "I think he wanted to jump onto the mat. The mat was slippery enough that he slid to the end and hit his head on the wall.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like he underestimated that slippery mat! Maybe next time, you could make sure he has a little extra grip on his footwear or set up some cushions nearby to soften any potential falls. Safety first!",
+                "time": 3.432110648904421,
+                "timespan": [
+                    1.110623,
+                    5.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.904904904904905,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy16.mp4",
+        "original_anno": "Sliding down the railing. Fell forward off the railing.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had a bit of an unexpected adventure sliding down the railing and then fell forward! Just remember to be cautious with playful moments like that; sometimes, it\u2019s best to find safer ways to have fun!",
+                "time": 3.167766765888866,
+                "timespan": [
+                    1.430063,
+                    4.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.237570904237571,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy2.mp4",
+        "original_anno": "A kid was riding their bike on the gravel. They hit a rock and tumbled forward off their bike.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, I just saw that kid take a tumble off their bike after hitting a rock on the gravel! It's so easy to lose balance in situations like that. Make sure they check in with their body for any bumps or bruises, and remind them to wear a helmet next time for extra safety while riding!",
+                "time": 4.31668615293819,
+                "timespan": [
+                    2.38292,
+                    5.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.372038705372039,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy22.mp4",
+        "original_anno": "A skier tries to land a jump The skier doesn't land, they fall.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you attempted a jump while skiing but unfortunately took a tumble instead of landing smoothly. Don't let that discourage you\u2014every fall is a chance to learn! Focus on your technique and take it slow until you feel confident again.",
+                "time": 7.82002617692648,
+                "timespan": [
+                    3.801238,
+                    11.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 10.944277610944278,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy24.mp4",
+        "original_anno": "A man in a small pool is kicking a soccer ball. He kicks the ball hard into his friends face.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like things took an unexpected turn while you were having fun in the pool! Accidents happen, but it\u2019s important to make sure your friend is okay and to apologize for the mishap\u2014maybe even take a break from kicking the ball around in close quarters.",
+                "time": 10.405826451965842,
+                "timespan": [
+                    6.484783,
+                    12.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 11.978645311978646,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy25.mp4",
+        "original_anno": "A person is snowboarding. The person falls into the snow.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you took a tumble while snowboarding and landed in the snow! No worries, it's all part of the learning process\u2014just take a moment to catch your breath, shake off the snow, and get back up when you're ready; practice makes perfect!",
+                "time": 14.899521532256848,
+                "timespan": [
+                    5.314874,
+                    21.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 21.12112112112112,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy26.mp4",
+        "original_anno": "A female tried to jump over a post in front of a store. She missed her jump and face planted onto the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! I saw when you tried to jump over that post and missed\u2014face planting can be pretty rough. Just remember, it happens to the best of us! Maybe next time, take a moment to assess the height before attempting a jump, and don\u2019t hesitate to laugh it off; it\u2019s all part of the adventure!",
+                "time": 9.358147393449418,
+                "timespan": [
+                    2.560243,
+                    12.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 12.145478812145479,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Anger Management - Fails of the Week (January 2019) _ FailArmy27.mp4",
+        "original_anno": "The goal is to perform a soccer trick. The man lands on the soccer ball and falls.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It seems like you tried to show off a soccer trick but ended up landing right on the ball and taking a spill. That's a tough break! Next time, maybe practice your footwork and balance a bit more before going for that flashy move\u2014keeping your center of gravity in check can really save you from falling!",
+                "time": 5.216995832376978,
+                "timespan": [
+                    3.057926,
+                    7.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.073740407073741,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy10.mp4",
+        "original_anno": "A girl is dancing to a song The girls falls to the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you were having a great time dancing, but then you accidentally took a tumble! Don't worry; accidents happen to the best of us. Just take a moment to shake it off, maybe laugh a little, and get right back up\u2014it\u2019s all part of having fun!",
+                "time": 7.452429264411789,
+                "timespan": [
+                    4.725428,
+                    9.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 9.442776109442777,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy11.mp4",
+        "original_anno": "to jump on wood and brake it person fell and did not brake wood",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you attempted to jump on a piece of wood with the hope of breaking it, but instead, you ended up falling without breaking it. Maybe next time, try testing the strength of the wood first before jumping on it to avoid any unnecessary spills!",
+                "time": 6.385609210605199,
+                "timespan": [
+                    2.598481,
+                    9.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.90890890890891,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy13.mp4",
+        "original_anno": "To jump an RC car on a ramp. The car went up the ramp and came down on the person controlling it.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "So, it looks like you had a little excitement with that RC car! It jumped off the ramp and came down right on you\u2014yikes! Just keep in mind to stand a safe distance back when launching your RC car next time to avoid any surprise landings. Stay safe and have fun!",
+                "time": 8.809586075485543,
+                "timespan": [
+                    5.993363,
+                    10.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 10.176843510176845,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy14.mp4",
+        "original_anno": "A man is parachuting on a hill. He ends up hitting a tree.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had a bit of an unexpected encounter while parachuting and ended up in a tree! Remember to assess your surroundings and check for any injuries when you land. If you find yourself in a tree again, try to stay calm and call for help if you can't get down on your own. Safety first!",
+                "time": 4.172733873184724,
+                "timespan": [
+                    3.504837,
+                    4.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.471137804471138,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy21.mp4",
+        "original_anno": "The goal was for the girl to film a cool skateboarding video. The girl fell off her skateboard after showing off.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you were really going for it with that skateboard video, but we all know that sometimes trying to show off can lead to a wipeout! Don't worry though, every fall is just a step towards getting better\u2014so maybe take a breather, learn from it, and get back out there when you're ready!",
+                "time": 12.5006873503753,
+                "timespan": [
+                    10.450057,
+                    14.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 14.214214214214214,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy22.mp4",
+        "original_anno": "A man rode a snowmoblie up a steep incline. The snowmobile ran into a parked mobile at the top of the ramp.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like you took quite the ride on the snowmobile and ended up crashing into a parked mobile at the top of the incline. My advice would be to always check your surroundings and ensure you have a clear path before powering up a steep slope. Safety first!",
+                "time": 5.727952877329065,
+                "timespan": [
+                    5.09714,
+                    6.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.0060060060060065,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy3.mp4",
+        "original_anno": "to jump an atv over something the guy crashes and walks around",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you attempted a daring ATV jump but ended up crashing instead. It's important to assess your condition first\u2014make sure you're okay, and if you're feeling any pain or discomfort, don't hesitate to seek medical attention. Always wear the right safety gear and consider starting with smaller jumps to build your confidence and skills before attempting bigger ones!",
+                "time": 3.1031096239864517,
+                "timespan": [
+                    0.0,
+                    5.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.739072405739073,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy30.mp4",
+        "original_anno": "A boat was released from land into water. The boat tipped over on its side.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite the unexpected event with the boat tipping over after being launched! If that happens again, it\u2019s best to make sure the weight inside the boat is distributed evenly and to check that everyone on board is wearing a life jacket for safety.",
+                "time": 17.35188237829763,
+                "timespan": [
+                    7.73258,
+                    23.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 23.323323323323326,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy38.mp4",
+        "original_anno": "Don't know the light fixture was broken",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It seems like you accidentally discovered that the light fixture was broken, which can definitely be a surprise! My advice would be to check the entire fixture for any damage and see if it needs a simple fix or replacement, and don't forget to turn off the power before you start tinkering!",
+                "time": 5.909943555251463,
+                "timespan": [
+                    2.552994,
+                    8.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.241574908241574,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy45.mp4",
+        "original_anno": "She was trying to sand surf down a giant hill. She went way too fast and crashed at the bottom of the hill.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "So, picture this: you're on this massive hill, feeling the rush as you sand surf down at lightning speed, but then\u2014bam!\u2014you crash at the bottom. Ouch! Next time, maybe consider starting with slower runs to get a feel for the speed and control before going all out. Safety first, fun second!",
+                "time": 2.690076396008975,
+                "timespan": [
+                    1.837463,
+                    3.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.5035035035035036,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy46.mp4",
+        "original_anno": "Going up a hill in an ATV Goes too fast and falls off the back",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you took a wild ride up that hill in your ATV and ended up taking an unexpected tumble off the back! Next time, be sure to pace yourself and maintain a steady speed, especially on steep inclines, to keep yourself safe and enjoying the thrill without the spills.",
+                "time": 6.345101685122964,
+                "timespan": [
+                    2.486862,
+                    8.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.174841508174842,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy47.mp4",
+        "original_anno": "To skateboard in some type of sewer or concrete ditch. They fell off the skateboard.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you were trying to show off your skateboarding skills in a sewer or concrete ditch and took a spill! Just remember to stay safe and maybe save those daring tricks for a smoother surface; your body will thank you!",
+                "time": 4.7057140862120255,
+                "timespan": [
+                    4.649837,
+                    4.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.671338004671338,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy48.mp4",
+        "original_anno": "Don't know The man fell over onto the ground",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I noticed that the man fell over onto the ground, which can be quite concerning. It's important to check if he\u2019s okay and offer help if needed, as he might be injured or just need a moment to gather himself.",
+                "time": 2.272415636535269,
+                "timespan": [
+                    0.648288,
+                    3.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.1031031031031033,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy51.mp4",
+        "original_anno": "For a man to surf down a water park slide. Second guy pushes the first down. He falls hard",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite the unexpected adventure at the water park! Getting pushed down a slide can definitely catch you off guard and lead to a rough landing. Next time, maybe try to communicate with your friend before taking the plunge to avoid any surprise pushes\u2014it\u2019s always better to go down the slide at your own pace!",
+                "time": 2.7788302958964914,
+                "timespan": [
+                    0.774214,
+                    3.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.6369703036369705,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy57.mp4",
+        "original_anno": "Going down a snowy road Person in front crashes into bank",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you were just trying to navigate a snowy road when the person in front of you lost control and crashed into a bank of snow. In situations like these, it\u2019s crucial to stay alert and maintain a safe distance from the vehicle ahead, as sudden stops can be common in slippery conditions. Consider driving at a slower speed and always be prepared to react if you see someone else struggling!",
+                "time": 4.954219488203601,
+                "timespan": [
+                    4.111114,
+                    5.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.105105105105105,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy59.mp4",
+        "original_anno": "The man tried to do a simple jump on a skateboard. He landed too far back on the board and ended up falling.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you took a little tumble while trying to pull off a jump on your skateboard\u2014everyone has been there! Next time, try to focus on your landing by keeping your weight centered over the board to help maintain your balance. You'll get the hang of it!",
+                "time": 4.131770724531151,
+                "timespan": [
+                    3.148326,
+                    4.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.804804804804805,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy60.mp4",
+        "original_anno": "Don't know A guy gets hit by a skateboard.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like you witnessed quite a surprising moment when that guy got hit by a skateboard! Remember, accidents happen, but it\u2019s important to check if he\u2019s okay and maybe even ask if he needs any help. Being a good bystander can make a difference!",
+                "time": 2.347787659444142,
+                "timespan": [
+                    0.0,
+                    4.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.104104104104104,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy61.mp4",
+        "original_anno": "The man wanted to jump over the barrier and land on the other side. The man didn't jump far enough and fell down while attempting to land.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It seems like you had an adventurous moment when you tried to jump over that barrier but didn't quite make it, leading to a fall. Next time, maybe consider assessing the distance before jumping to ensure you have a clear landing spot\u2014safety first, right?",
+                "time": 6.1804469417752035,
+                "timespan": [
+                    4.511895,
+                    7.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.540874207540875,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy64.mp4",
+        "original_anno": "the cat is hanging on the cat shelf the cat falls off of the cat shelf and knocks stuff down",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it looks like your cat was having a bit too much fun on the shelf and caused a mini disaster when they fell! Just make sure to secure any items that could get knocked over and check on your cat to ensure they're okay; maybe consider adding some cushioned landing spots for next time!",
+                "time": 5.49172121151423,
+                "timespan": [
+                    3.899386,
+                    6.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.439773106439773,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy68.mp4",
+        "original_anno": "A man on a dirt bike tries to pop a wheeley over a jump. They rev too much and end up flipping off their bike.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that was quite the stunt attempt! It\u2019s crucial to gauge your speed and throttle control better next time to avoid flipping over; maybe practice your balance on flat ground before trying jumps again. Stay safe out there!",
+                "time": 4.65032784899081,
+                "timespan": [
+                    3.118332,
+                    5.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.405405405405405,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy69.mp4",
+        "original_anno": "A snowboarder attempts to go down a pipe He falls off the rail and crashes",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It looks like you took a spill while trying to navigate that pipe and ended up crashing after falling off the rail. Remember, it's all part of the learning process\u2014make sure to take a moment to check yourself for any bumps or bruises, and don\u2019t hesitate to take your time practicing on easier runs before hitting the more challenging spots again!",
+                "time": 6.810016785063813,
+                "timespan": [
+                    4.715289,
+                    8.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.274941608274942,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy7.mp4",
+        "original_anno": "A dog is trying to stand up. The dog slips backwards because the ground is icy.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I see that your dog is having a tough time trying to stand up on that icy ground\u2014it can be really slippery for them! It's a good idea to help your pup find some traction by either clearing a safe space for them or using pet booties to give them better grip.",
+                "time": 4.236429403980066,
+                "timespan": [
+                    0.0,
+                    8.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.008008008008009,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy71.mp4",
+        "original_anno": "tried to jump on the swan in the pool her weight bounced off the swan and she looked silly",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite the moment trying to jump on that swan in the pool! While it\u2019s always fun to make a splash, maybe next time try a gentler approach or stick to the floating devices\u2014they're sure to keep you looking graceful!",
+                "time": 4.233793684717614,
+                "timespan": [
+                    2.090146,
+                    5.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.4387721054387725,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy72.mp4",
+        "original_anno": "Someone was trying to get on a pool floatie She fell into the water",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, I saw you trying to get on that pool floatie and then you took an unexpected plunge into the water! Don't worry, it happens to the best of us. Just take a moment to regroup, and maybe next time, approach it slowly or have someone help you for a smoother ride onto the float. Enjoy the water!",
+                "time": 6.706327199284468,
+                "timespan": [
+                    3.576307,
+                    8.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.174841508174842,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy74.mp4",
+        "original_anno": "someone is skateboarding really fast around a curve the board comes up from under them and they wipe out on the street going really fast",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I saw that wipeout; it looked pretty intense! When skateboarding, especially around curves, make sure to keep your body low and your weight centered over the board to maintain control and avoid spills like that. Stay safe out there!",
+                "time": 5.866058860050611,
+                "timespan": [
+                    2.458968,
+                    7.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.407407407407407,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy77.mp4",
+        "original_anno": "A girl throws the bouquet at a wedding. She hits someone in the face with it.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that bouquet toss took an unexpected turn when it accidentally hit someone in the face. Don't worry, it's all in good fun! Just make sure to check on the person afterward, maybe share a laugh about it, and assure them it was just a playful moment. A little kindness goes a long way in turning an awkward moment into a cherished memory!",
+                "time": 6.1494929162405745,
+                "timespan": [
+                    2.082404,
+                    7.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.774441107774441,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy78.mp4",
+        "original_anno": "An english bulldog trying to run in heavy snow. The dog ended up face planting in the snow when trying to run fast.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "I saw your English bulldog excitedly trying to run in the heavy snow\u2014what a cute sight! However, it seems he face-planted when he tried to go too fast. Remember, bulldogs aren\u2019t the most agile in deep snow, so it might be best to keep the romp slow and playful to avoid any more face plants!",
+                "time": 3.8074515840179775,
+                "timespan": [
+                    1.448762,
+                    5.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.038371705038372,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Are You Serious! - Throwback Thursday (September 2017) _ FailArmy80.mp4",
+        "original_anno": "A man is trying to control his dog. The dog doesn't listen to the man and runs into a dirty lake.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite the adventure with your dog! It's tough when our furry friends get a bit too excited and ignore our commands. For next time, maybe try using a long leash or practicing recall with some tasty treats to keep them focused on you, especially in tempting situations like a dirty lake!",
+                "time": 4.305619596475319,
+                "timespan": [
+                    2.420726,
+                    5.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.572238905572239,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bait and Switch Fails - Fooled you! (January 2018) _ FailArmy6.mp4",
+        "original_anno": "A woman is trying to sun bathe. A man pours a cooler of ice on her.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that sounds like a pretty startling interruption to what should be a relaxing day! It's a good idea to establish some clear boundaries and communicate your need for personal space the next time you're enjoying the sun.",
+                "time": 6.17908610794196,
+                "timespan": [
+                    5.156183,
+                    6.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.606606606606607,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 20160.mp4",
+        "original_anno": "A kid was trying to hit a ball The ball hit his face instead",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh dear, that must have been quite a surprise for the kid! It happens to the best of us, but it\u2019s important to remind him to keep his eyes on the ball and maybe wear some protective gear next time to avoid any bumps or bruises.",
+                "time": 2.9297939635454995,
+                "timespan": [
+                    2.073468,
+                    3.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.586321934945788,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201615.mp4",
+        "original_anno": "A toddler is trying to hit a ball from a tee. The toddler loses his balance and fall on the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh dear, it looks like that little one had a bit of a tumble while trying to hit the ball from the tee! Accidents like this are pretty common when toddlers are learning new skills. Just remind him that it's okay to fall and encourage him to get back up and try again\u2014it\u2019s all part of the fun!",
+                "time": 5.305908978591783,
+                "timespan": [
+                    2.996392,
+                    7.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.922435362802335,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201617.mp4",
+        "original_anno": "Some kids were trying to play some soccer A boy was hit by a soccer ball in the face while on the ground",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! I saw that incident where one of the kids got hit in the face by the soccer ball while he was on the ground. It must have startled him! Just remind everyone to be mindful of each other's safety while playing, and maybe take a moment to check if he's okay and help him if he needs it.",
+                "time": 3.5153058029564033,
+                "timespan": [
+                    1.393158,
+                    4.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.795663052543786,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201618.mp4",
+        "original_anno": "Two kids were playing wiffle ball One of the kids hits the other accidentally",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like during a fun game of wiffle ball, one of the kids accidentally hit the other. Accidents happen, so it's important to check in on the one who got hit and make sure they're okay, and maybe take a little break to talk about being careful when playing.",
+                "time": 6.691310664669675,
+                "timespan": [
+                    5.372158,
+                    7.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.589658048373645,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201620.mp4",
+        "original_anno": "To get candy from the pinata the girl got distracted and didn't get any candy.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like the girl was so focused on the fun of the pinata that she lost track of the opportunity to grab some candy when it fell! Maybe next time, she can keep her eyes on the prize and be ready to swoop in as soon as the goodies drop. ",
+                "time": 5.449949745269286,
+                "timespan": [
+                    4.899832,
+                    5.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.629691409507923,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201622.mp4",
+        "original_anno": "A boy tries to do some soccer tricks. The ball ricocheted off the wall and hit him in his testicles.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Ouch, that sounds painful! It looks like that soccer trick went a bit awry when the ball bounced back unexpectedly. It's always a good idea to be cautious when practicing tricks, maybe try to find a more open space next time, and definitely keep some protective gear on hand!",
+                "time": 5.6524257785291985,
+                "timespan": [
+                    2.7251,
+                    7.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.922435362802335,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201624.mp4",
+        "original_anno": "the goal was to bunt The batter got hit with the ball",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like during your attempt to bunt, the batter ended up getting hit by the ball instead. Ouch! In situations like this, it\u2019s important to stay focused\u2014remember, it's crucial to keep your eyes on the ball and be ready to react quickly to avoid getting hit. Maybe practice some bunting drills to build your confidence!",
+                "time": 8.024973766592588,
+                "timespan": [
+                    3.623146,
+                    11.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 11.21768140116764,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201625.mp4",
+        "original_anno": "A softball player is trying to catch a ground ball. The ball jumps up and hits her in the face.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, that must have been a tough moment when that ground ball unexpectedly jumped up and hit you in the face! Remember, keeping your eye on the ball and anticipating those tricky bounces can help you react better next time. Keep practicing, and don't let this setback shake your confidence!",
+                "time": 3.2129778513217007,
+                "timespan": [
+                    2.223202,
+                    3.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.5446205170975813,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201631.mp4",
+        "original_anno": "A man tried to run to a table to grab a drink while staggering around. They did not stop and ran into the table crashing it to the floor.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had a bit of a wild moment trying to grab that drink! Next time, maybe try to take it slow or ask for help instead of rushing; it\u2019ll save you from any crash landings!",
+                "time": 4.900816005572464,
+                "timespan": [
+                    2.469715,
+                    5.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.7964970809007506,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201633.mp4",
+        "original_anno": "The guy was playing sports in the gym The ball ended up hitting him in the groin",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, that moment when the sports ball hits you right in the groin can be quite a shock! It's important to take a moment to breathe and, if possible, lie down for a bit to alleviate the discomfort. Remember to stretch gently afterward, and maybe consider wearing a protective cup during intense games in the future!",
+                "time": 8.480631267421781,
+                "timespan": [
+                    3.795769,
+                    11.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 10.884070058381985,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201636.mp4",
+        "original_anno": "woman tries to dunk the ball basket comes down crashing",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, I just saw you trying to dunk that basketball, and it looks like the hoop came crashing down! That must have been quite the shock. Maybe next time, take a moment to assess the setup before going for the big move; safety first, and it might save you from a future surprise!",
+                "time": 6.454991468896122,
+                "timespan": [
+                    4.055176,
+                    7.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.506255212677231,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201637.mp4",
+        "original_anno": "to hit a baseball with the bat he hit the ball but it hit the person who threw it",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, it sounds like you had quite a moment there! So you swung the bat and connected with the ball, but it ended up hitting the person who threw it instead. Accidents happen in sports, but next time, remind yourself to pay extra attention when you\u2019re swinging! It's all in good fun, so maybe check on the person you hit to make sure they\u2019re okay, and keep practicing your aim!",
+                "time": 3.438366031005126,
+                "timespan": [
+                    3.04585,
+                    3.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.586321934945788,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201639.mp4",
+        "original_anno": "They were trying to catch the ball. The runner ran right into them.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you were focused on catching the ball, and then suddenly, a runner knocked you off your feet! It happens! Just remember to always keep an eye on your surroundings during a game to avoid collisions\u2014safety first, right?",
+                "time": 8.281289617092519,
+                "timespan": [
+                    3.767189,
+                    11.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 11.175979983319433,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 20164.mp4",
+        "original_anno": "A man tries to hit a baseball. The pitcher misses and hits the batter in the stomach.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you\u2019ve had a rough moment on the field when the pitcher accidentally hit you in the stomach instead of throwing a strike. Ouch! Just take a deep breath and remember that even the best players face these kinds of mishaps\u2014stay focused, shake it off, and get ready for your next at-bat!",
+                "time": 4.781259940605911,
+                "timespan": [
+                    3.401217,
+                    5.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.504587155963303,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201645.mp4",
+        "original_anno": "A man kicked a basketball into a wall. The basketball ricocheted off the wall and hit him in the head.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you had a bit of an unexpected encounter with that basketball! Sometimes things don\u2019t go as planned, and a little mishap like that can happen. Just remember to watch where you're kicking next time\u2014protect your noggin!",
+                "time": 6.677935740589092,
+                "timespan": [
+                    3.067932,
+                    8.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.964970809007506,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201646.mp4",
+        "original_anno": "A baseball player is up to bat. His face got hit by the ball.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! I saw that happen\u2014getting hit in the face by the ball isn\u2019t just painful, it can be scary too. Make sure to check for any injuries and get some ice on it to help with the swelling, and don\u2019t hesitate to seek medical attention if you need it.",
+                "time": 3.4461663163523393,
+                "timespan": [
+                    2.560898,
+                    4.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.9616346955796495,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201647.mp4",
+        "original_anno": "A man tries to slam dunk a basketball. He breaks the glass on the back of the basket.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that was quite a dramatic attempt at a slam dunk! It looks like you really went for it, but breaking the backboard is not ideal. Maybe next time, consider practicing your dunk on a more forgiving hoop or focusing on your technique to avoid any expensive accidents\u2014safety first!",
+                "time": 5.582926905906379,
+                "timespan": [
+                    3.121396,
+                    7.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.589658048373645,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201648.mp4",
+        "original_anno": "Two men try to joust with giant balls They ram into each other and hit one another in the face",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like those two guys had a wild idea trying to joust with giant balls, but it turned into a face-smacking fiasco! Maybe next time they should stick to a less bumpy activity or consider wearing some protective gear to keep it fun and safe.",
+                "time": 6.681775898621227,
+                "timespan": [
+                    3.23696,
+                    8.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.507089241034196,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 20165.mp4",
+        "original_anno": "A girl wanted to hit a basketball with a bat. The ball flew back and hit her in the face.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that girl learned the hard way that basketballs and bats don\u2019t mix well! Next time, it might be better to use a basketball and practice shooting instead of swinging a bat; her face will definitely thank her for it!",
+                "time": 3.02832191860797,
+                "timespan": [
+                    0.730438,
+                    4.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.9199332777314426,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201652.mp4",
+        "original_anno": "A group of women are playing soccer. The ball is kicked into a player's face.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like during the game, one of the players got an unexpected kick to the face from the soccer ball! Ouch! It's always a good idea to wear appropriate protective gear, like shin guards and, in some cases, face protection, to help prevent injuries during such spirited games.",
+                "time": 6.649539898976082,
+                "timespan": [
+                    4.478351,
+                    8.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.04837364470392,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 201660.mp4",
+        "original_anno": "Catch a home run ball He missed the ball and was hit in the face",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you were going for a thrilling home run catch but ended up taking a baseball to the face instead\u2014ouch! Remember, next time to keep your eye on the ball and maybe even protect your face with your arms; it\u2019s all about finding that balance between excitement and safety!",
+                "time": 4.552259362598831,
+                "timespan": [
+                    2.453329,
+                    5.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.462885738115096,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 20167.mp4",
+        "original_anno": "To hit a golf ball with a golf club It ricocheted and hit the golfer",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like you had a little mishap on the golf course when your shot ricocheted and hit you. Accidents like that can happen to anyone! Just remember to always be aware of your surroundings and practice safety by making sure others are at a safe distance before you take your swing.",
+                "time": 5.274387790054135,
+                "timespan": [
+                    1.095026,
+                    9.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 9.132610508757297,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bats & Balls Fail Compilation _ By FailArmy 20169.mp4",
+        "original_anno": "A footballer was trying to catch the ball to make a touchdown. The footballer missed the ball and knocked the ref over in the process.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "So, I saw you trying to catch that ball for a touchdown, and it looks like things got a bit chaotic when you ended up knocking the ref over! It's always rough when things don't go as planned, but maybe next time, focus on your positioning a bit more\u2014sometimes it's better to let it go than to risk a collision.",
+                "time": 3.9232085909480734,
+                "timespan": [
+                    1.178145,
+                    5.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.045871559633027,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy0.mp4",
+        "original_anno": "People were trying to lift a woman as she performed a flip. The woman flipped to far and her arm was twisted.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, that sounds like quite an ordeal! It sounds like the woman was having a bit too much fun with her flip, but unfortunately, her arm took a misstep. My advice would be to make sure she gets medical attention right away\u2014better safe than sorry when it comes to potential injuries!",
+                "time": 4.484262491657898,
+                "timespan": [
+                    2.993416,
+                    5.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.271938605271939,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy12.mp4",
+        "original_anno": "Don't know Don't know",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you're feeling a bit lost or unsure about something, maybe you're facing a decision or a situation that\u2019s unclear. My advice would be to take a moment to pause, reflect on your thoughts, and perhaps jot down what\u2019s bothering you; sometimes clarity comes from just expressing what you feel.",
+                "time": 1.8144359062532778,
+                "timespan": [
+                    0.092364,
+                    3.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.4367701034367704,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy15.mp4",
+        "original_anno": "A roller skater tried twirling while jumping. He didn't land right and fell.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that roller skater might have taken a bit of a tumble while attempting to show off some skills with that twirl. Remember, it's always good to practice those jumps and spins at a slower pace first to build confidence\u2014maybe try focusing on landing techniques before going for the flashy moves!",
+                "time": 5.9614005382605395,
+                "timespan": [
+                    4.51018,
+                    7.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.9402736069402735,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy18.mp4",
+        "original_anno": "Women tries to walk on water platform. She slides and fell because it's slippery.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you had a little slip while trying to walk on that water platform\u2014yikes! Next time, make sure to take it slow and be cautious of slippery surfaces; maybe even look for some grip or non-slip shoes to help you out!",
+                "time": 8.592466368912575,
+                "timespan": [
+                    7.896082,
+                    8.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.80880880880881,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy25.mp4",
+        "original_anno": "Someone is trying to fix a toilet. The toilet splits in half.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It looks like you were in quite a pickle trying to fix that toilet, and now it\u2019s split in half! My advice would be to take a deep breath and consider calling a plumber to assess the damage and help you out\u2014sometimes it\u2019s best to leave it to the professionals when things go a bit awry.",
+                "time": 1.706946725040886,
+                "timespan": [
+                    0.0,
+                    3.375
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.3700367033700367,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy26.mp4",
+        "original_anno": "Trying to dive off a roof on to a trampoline The jumper bounced hard off the trampoline and on to the ground",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that sounds like quite the leap! It seems like diving off a roof onto a trampoline can lead to some unexpected and risky outcomes. For your safety, I'd recommend sticking to the ground for jumping activities and maybe trying the trampoline without the roof involvement next time\u2014it's way safer that way!",
+                "time": 7.050688109482561,
+                "timespan": [
+                    3.315976,
+                    9.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.942275608942277,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy3.mp4",
+        "original_anno": "A boy tries to run into a large punching bag. A woman moves the bag and the boy misses it and falls to the ground.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like the boy was really determined to tackle that punching bag, but sometimes things don't go as planned! Just a friendly reminder that it's important to pay attention to your surroundings and be careful when running towards something\u2013you never know when someone might move it! Maybe next time, he can make sure the bag is steady before approaching it.",
+                "time": 6.8371516775175465,
+                "timespan": [
+                    4.599375,
+                    7.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.574240907574241,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy30.mp4",
+        "original_anno": "someone runs over and tries to hop across a section of water they make it, but fall on their butt then fall in",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like someone had a slippery misadventure trying to hop over a water section! You might want to remember that sometimes it's better to take a step back and find a safer way around instead of risking a splashdown. Stay dry out there!",
+                "time": 10.078307159079078,
+                "timespan": [
+                    5.0105,
+                    13.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 13.346680013346681,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy32.mp4",
+        "original_anno": "Doing gymnastics on a bar. Too much weight caused a fall.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like you had a tough time on the bar and ended up falling. Remember to always ensure your weight is evenly distributed and that you\u2019re warmed up properly before attempting challenging moves. Safety comes first!",
+                "time": 28.00817096717496,
+                "timespan": [
+                    18.374849,
+                    32.875
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 32.7660994327661,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy4.mp4",
+        "original_anno": "Practicing gymnastics Falls off the balance beam",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, I saw you practicing gymnastics and took a tumble off the balance beam! It can be tough when that happens, but don't let it discourage you\u2014just remember to take your time, practice your landings, and keep focusing on your technique! You've got this!",
+                "time": 3.2678108776755823,
+                "timespan": [
+                    2.753835,
+                    3.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.6369703036369705,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy6.mp4",
+        "original_anno": "He tried to jump a dumpster and then catch on to a rail. He caught the rail and did a sudden summersault around the rail.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that sounds like quite the unexpected twist! You took quite a leap there\u2014literally! Remember, it\u2019s always good to assess your surroundings and stick to safer moves to avoid any spills. Next time, sticking to solid ground might be a wiser choice!",
+                "time": 5.759770981340978,
+                "timespan": [
+                    3.349313,
+                    7.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.140473807140474,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Bee Keeper Business - Fails of the Week (November 2018) _ FailArmy8.mp4",
+        "original_anno": "A girl tried to do a back flip. She didn't land right and hit her head.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no, that sounds like a tough situation! It\u2019s important to take a moment to assess how you're feeling after that fall\u2014if you have any pain or dizziness, it might be a good idea to seek medical attention. Remember, safety first!",
+                "time": 5.432209736174694,
+                "timespan": [
+                    4.39362,
+                    6.0
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.9059059059059065,
+        "fps": 29.97
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy0.mp4",
+        "original_anno": "A girl was practicing holding on to a pole from high above. She lost her grip and fell onto the floor.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Wow, that sounds like a pretty scary situation! Falling from a height can be really dangerous, so it's essential to prioritize safety during your practice sessions. Make sure to always use proper equipment and perhaps practice with a safety harness or mats next time, just to keep things safe and secure!",
+                "time": 5.946590345780987,
+                "timespan": [
+                    3.0267,
+                    7.75
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.589658048373645,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy15.mp4",
+        "original_anno": "Don't know a toy car hit a guy in his head",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh wow, it sounds like a toy car unexpectedly became a little too airborne and hit someone in the head! Accidents happen, so it might be a good idea to check in with the person to see if they're okay and maybe set some ground rules about where toy vehicles can be played to prevent any more surprises.",
+                "time": 2.572949938444448,
+                "timespan": [
+                    0.249309,
+                    3.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.4612176814011675,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy2.mp4",
+        "original_anno": "to jump onto a floating in water piece of ice the ice broke apart when he jumped on it",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you attempted to jump onto a floating piece of ice, but it broke apart when you landed. That can be quite a surprise and a bit risky! Next time, it might be safer to assess the stability of any ice before making a leap; it\u2019s always better to stay cautious around frozen waters!",
+                "time": 7.746589995954334,
+                "timespan": [
+                    3.307921,
+                    9.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 9.132610508757297,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy20.mp4",
+        "original_anno": "Person tries to prank father with water. They tripped and fall off the roof of the house.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh wow, that sounds like quite an unexpected turn of events! It\u2019s important to remember that pranks can sometimes go hilariously wrong and lead to accidents\u2014like, falling off the roof isn\u2019t part of the plan! My advice would be to always think twice before pulling off a stunt, especially one that involves heights, and maybe stick to harmless jokes that won\u2019t put anyone in danger. Stay safe!",
+                "time": 7.237962972275433,
+                "timespan": [
+                    5.059366,
+                    9.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 9.216013344453712,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy25.mp4",
+        "original_anno": "A man tried to throw something at another person walking by. Don't know",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you witnessed a pretty tense moment where a man impulsively threw something at someone passing by. It\u2019s important to remember that acting out in anger can often escalate situations, so encouraging him to take a deep breath and find a healthier way to express his feelings might be a good idea.",
+                "time": 4.360196748931121,
+                "timespan": [
+                    3.963865,
+                    4.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.378648874061718,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy57.mp4",
+        "original_anno": "A skater was attempting to jump over a large gap. The breach below was filled with water. The skater did not quite jump far enough. Although he made it to the other side, his skateboard fell in the water.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you found yourself in a bit of a splashy situation after that jump attempt! In the future, remember to gauge the distance a little more carefully, or perhaps choose a jump with a less watery consequence\u2014dry land can be your best friend in skateboarding!",
+                "time": 2.087748110890693,
+                "timespan": [
+                    0.1886329,
+                    3.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.377814845704754,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy62.mp4",
+        "original_anno": "Lift himself up onto the roof. The part of the roof he is trying to use to lift himself up fell off therefore he fell too.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you tried to pull yourself up onto the roof, but the part you were using for support gave way, causing you to fall. Be careful next time and maybe consider using a ladder or asking for help\u2014safety first!",
+                "time": 2.4878358285511157,
+                "timespan": [
+                    0.892057,
+                    3.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 3.5446205170975813,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy65.mp4",
+        "original_anno": "To headbutt the wooden plank. The plank hurt as he headbutted it.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you tried to headbutt a wooden plank, and that didn\u2019t go quite as planned! Maybe in the future, it\u2019s best to stick to less painful activities for showing off your strength\u2014like pillow fighting or even a good old-fashioned wrestling match with friends!",
+                "time": 3.9503407008473546,
+                "timespan": [
+                    1.92947,
+                    5.125
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.962468723936614,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy69.mp4",
+        "original_anno": "A team was doing a basketball video where they all jump on a trampoline and pass around a basketball. One of the participants fell down after the jump.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you were having a great time bouncing and playing basketball on the trampoline, but it's unfortunate that one of the participants took a spill after the jump. Make sure everyone stretches and warms up properly before bouncing again to prevent any injuries and keep the fun going!",
+                "time": 6.922390897657552,
+                "timespan": [
+                    5.51317,
+                    7.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 7.422852376980817,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy70.mp4",
+        "original_anno": "A guy was drumming in his room to music. He dropped a drum stick and it hit them in the head.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "Oh no! It sounds like that drumstick had a mind of its own and decided to join the party a little too aggressively. Next time, maybe consider drumming in a more spacious area or securing your sticks better to avoid any surprise headbutts! Keep rocking, but stay safe!",
+                "time": 4.060495557874562,
+                "timespan": [
+                    1.40785,
+                    6.25
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 6.213511259382819,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy75.mp4",
+        "original_anno": "A man tried to Catch and drink a beer on a unicycle He ended up falling off it",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It sounds like you had quite a wild experience trying to catch a beer while balancing on a unicycle! Maybe next time, consider hopping off the unicycle first before grabbing your drink\u2014safety first, right?",
+                "time": 8.197998047336418,
+                "timespan": [
+                    7.005015,
+                    8.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 8.548790658882401,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy76.mp4",
+        "original_anno": "Man tries to jump on to ice block. Ice block obviously slipper so he slid right off and in to the water.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "So there you were, trying to jump onto that slippery ice block, but instead, you ended up sliding right into the water! It looks like a little planning ahead might have helped; next time, maybe stick to dry footing or get some non-slip gear to avoid a cold plunge!",
+                "time": 3.5779388260035705,
+                "timespan": [
+                    0.994179,
+                    4.5
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 4.462051709758132,
+        "fps": 23.98
+    },
+    {
+        "video": "Anomaly_Warning/Best Fails of the Week 3 May 2016 _ FailArmy84.mp4",
+        "original_anno": "A man is jumping on a trampoline and tries to do a backflip. He doesn't land properly and falls over the trampoline.",
+        "conversations": [
+            {
+                "from": "gpt",
+                "value": "It looks like you took a leap of faith on that trampoline but ended up taking a tumble instead! Remember, practicing backflips on a trampoline can be tricky, so make sure to start with some basic jumps and work your way up to flips, and always have a spotter if you can for safety!",
+                "time": 5.213227786095418,
+                "timespan": [
+                    4.571765,
+                    5.625
+                ]
+            }
+        ],
+        "proactive": true,
+        "video_len": 5.546288573811509,
+        "fps": 23.98
+    }
+]

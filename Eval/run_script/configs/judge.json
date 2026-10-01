@@ -1,0 +1,9 @@
+{
+  "model": "qwen3-235b-a22b",
+  "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "workers": 8,
+  "timeout": 120,
+  "retries": 3,
+  "temperature": 0,
+  "enable_thinking": false
+}

@@ -1,0 +1,25 @@
+{
+  "caption": {
+    "control_protocol": "silence_observe_summary_v50_training_user",
+    "fps": 4,
+    "context_frames": 128,
+    "max_new_tokens": 128,
+    "flush_summary": true,
+    "consolidate_summary": false,
+    "progress_every": 20,
+    "min_pixels": 3136,
+    "max_pixels": 100352,
+    "dtype": "bfloat16",
+    "attn_implementation": "flash_attention_2",
+    "debug": false,
+    "input_mode": "video_per_second",
+    "resize_policy": "legacy_image_dynamic",
+    "updates_per_second": 1
+  },
+  "answer": {
+    "recent_sample_fps": 1.0,
+    "max_new_tokens": 16,
+    "memory_max_tokens": 12000,
+    "continue_on_error": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source_id": "omnimmi_asr_words_v2",
+  "source_path": "segments",
+  "videos": 721,
+  "tasks": [
+    "ap",
+    "si",
+    "md",
+    "sg"
+  ],
+  "fields": [
+    "word",
+    "start",
+    "end"
+  ],
+  "ordering": "original; no reordering or filtering"
+}

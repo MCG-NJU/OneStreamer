@@ -1,0 +1,4 @@
+{
+  "OneStreamer-4B": "../path_to/models/OneStreamer-4B",
+  "qwen3vl-instruct": "../path_to/models/Qwen3-VL-4B-Instruct_no_special_token"
+}

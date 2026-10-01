@@ -1,0 +1,3502 @@
+[
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0412_man_19_shandong_1492.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Calculate the absolute value of -81.",
+                "time": 12.98,
+                "timespan": [
+                    9.1,
+                    12.98
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The absolute value of -81 is 81.",
+                "time": 13.08,
+                "timespan": [
+                    13.08,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 19.503649708919035,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0449_woman_20_shandong_1594.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an interesting metaphor to describe this object: a book.",
+                "time": 10.3,
+                "timespan": [
+                    7.1,
+                    10.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A book is like an aircraft carrier heading towards the kingdom of knowledge, carrying us to explore unknown worlds and leading us to new horizons. It is a time tunnel, traversing the past and present, connecting yesterday and tomorrow. Each page we turn is like opening a new treasure chest, from which we draw infinite wisdom.",
+                "time": 10.4,
+                "timespan": [
+                    10.4,
+                    14.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 15.725855791581091,
+                "timespan": [
+                    14.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0451_man_18_shandong_1599.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a movie title by combining two random nouns.",
+                "time": 11.86,
+                "timespan": [
+                    8.1,
+                    11.86
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Valley of the Lions",
+                "time": 11.96,
+                "timespan": [
+                    11.96,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "It was great talking to you, hope to see you soon!",
+                "time": 19.21046394979476,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0415_man_20_shandong_1500.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A group of teenagers is playing in the garden, make the sentence more interesting.",
+                "time": 15.62,
+                "timespan": [
+                    10.1,
+                    15.62
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A group of energetic teenagers is running and frolicking in the garden, like a bunch of mischievous little elves playing among the fragrant flowers.",
+                "time": 15.72,
+                "timespan": [
+                    15.72,
+                    23.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 24.235149818498147,
+                "timespan": [
+                    23.1,
+                    25.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0422_man_19_shandong_1528.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Find the exaggeration in the following sentence: My professor is too strict, I think the university should ban him!",
+                "time": 16.26,
+                "timespan": [
+                    9.1,
+                    16.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "I think the university should ban him!\" is the exaggeration in this sentence.",
+                "time": 16.36,
+                "timespan": [
+                    16.36,
+                    24.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Have a great day, looking forward to our next chat.",
+                "time": 25.10719348040299,
+                "timespan": [
+                    24.1,
+                    26.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0455_woman_18_shandong_1614.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe a specific emotion with five words.",
+                "time": 10.98,
+                "timespan": [
+                    8.1,
+                    10.98
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Sadness: heavy, painful, sorrowful, haggard, desperate.",
+                "time": 11.08,
+                "timespan": [
+                    11.08,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget to come back and chat with me!",
+                "time": 18.419830237877683,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0428_man_18_shandong_1543.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a search query to find articles about artificial intelligence.",
+                "time": 14.98,
+                "timespan": [
+                    9.1,
+                    14.98
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Search query in Ai search engine: 'artificial intelligence' + 'articles'.",
+                "time": 15.08,
+                "timespan": [
+                    15.08,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Really happy to have met you, until next time!",
+                "time": 20.61870643575219,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0273_man_18_shandong_11859.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a short poem describing the sunset.",
+                "time": 13.58,
+                "timespan": [
+                    10.1,
+                    13.58
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Gentle are the sunset's afterglow,\nOrange and red beyond the western hollow.\nThe evening sky brings a misty haze,\nThe day quietly ends its final phase.\nDistant hills veiled in a floating mist,\nEvening songs softly whispered, a tryst.\nThe world is soothed by the sun's delight,\nThe warm sunset, forever bright.",
+                "time": 13.68,
+                "timespan": [
+                    13.68,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 21.473071743539794,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0466_woman_18_shandong_1648.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write the definition of the idiom 'a stone's throw away'.",
+                "time": 11.74,
+                "timespan": [
+                    8.1,
+                    11.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "'A stone's throw away' originates from the range of ancient archery, referring to a short distance, just a very short distance away. This idiom is often used to describe a very short distance between two places or a very close relationship between two people.",
+                "time": 11.84,
+                "timespan": [
+                    11.84,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 17.67326695700879,
+                "timespan": [
+                    17.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0290_woman_20_shandong_2160.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a news headline about animal extinction events.",
+                "time": 12.38,
+                "timespan": [
+                    8.1,
+                    12.38
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Increasing Numbers of Endangered Animal Species: Conservation Efforts More Urgent\"",
+                "time": 12.48,
+                "timespan": [
+                    12.48,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to talk longer next time, take care!",
+                "time": 20.26366474956938,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0475_woman_20_shandong_1675.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a few sentences about your country in the third person.",
+                "time": 12.74,
+                "timespan": [
+                    10.1,
+                    12.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Their country has a long history and rich culture. It boasts magnificent mountains and beautiful landscapes, providing a variety of tourism options. In addition, the country's economy is developing rapidly and holds an important position in the world. The standard of living is continuously improving, and the people live and work in peace and contentment.",
+                "time": 12.84,
+                "timespan": [
+                    12.84,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 21.731047531001508,
+                "timespan": [
+                    21.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0465_woman_20_shandong_1645.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a 10-character tag describing the threat to animals due to rapid deforestation.",
+                "time": 14.42,
+                "timespan": [
+                    8.1,
+                    14.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Survival crisis: Forest reduction, animals under threat\"",
+                "time": 14.52,
+                "timespan": [
+                    14.52,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 20.65627561089761,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0445_man_20_shandong_11842.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a riddle based on the theme of 'water'.",
+                "time": 10.26,
+                "timespan": [
+                    8.1,
+                    10.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "I have no feet, but I can flow. I have no mouth, but I can drink up a castle. I can soothe your heart, or destroy everything. What am I?",
+                "time": 10.36,
+                "timespan": [
+                    10.36,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 17.939446207501412,
+                "timespan": [
+                    16.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0486_woman_19_shandong_1711.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Make a joke about a professor.",
+                "time": 12.22,
+                "timespan": [
+                    10.1,
+                    12.22
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A professor was giving students tips on writing papers and said: 'Remember, you must avoid using meaningless filler words and nonsense, just like what I'm saying now.'",
+                "time": 12.32,
+                "timespan": [
+                    12.32,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Great talking to you, see you next time!",
+                "time": 20.732141878183576,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0441_man_18_shandong_1576.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write down three sentences about the last picnic you attended.",
+                "time": 10.5,
+                "timespan": [
+                    7.1,
+                    10.5
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "As a language model, I am unable to attend picnics or engage in any physical activities, so I cannot talk about any recent picnics I have attended. However, if you have recently attended a picnic and are willing to share your experience, I would be happy to listen and discuss it with you!",
+                "time": 10.6,
+                "timespan": [
+                    10.6,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Excited for our next conversation, take care!",
+                "time": 19.165652664571336,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0428_man_18_shandong_1544.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine if the following statement is correct: The frequencies of two keys on a piano are the same.",
+                "time": 14.58,
+                "timespan": [
+                    9.1,
+                    14.58
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Incorrect. Different keys on a piano represent different tones, and the frequency of each key is different. The frequency of each note is different relative to A4 (A4 is the standard pitch, referring to the frequency of the A note in standard tuning, which is higher than middle C, at approximately 440Hz).",
+                "time": 14.68,
+                "timespan": [
+                    14.68,
+                    22.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 22.557314830770434,
+                "timespan": [
+                    22.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0463_man_19_shandong_1638.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 6.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Adjective phrases for a table",
+                "time": 7.7,
+                "timespan": [
+                    6.1,
+                    7.7
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Sturdy and stable 2. Polished and tidy 3. Fashionable and modern 4. Round and wooden 5. Uniquely handcrafted 6. Spacious and simple 7. Marble topped 8. Durable and reliable 9. Extendable and convenient 10. Antique and exquisite",
+                "time": 7.8,
+                "timespan": [
+                    7.8,
+                    13.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget to come back and chat with me!",
+                "time": 14.747279953487908,
+                "timespan": [
+                    13.1,
+                    16.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0474_woman_20_shandong_1674.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a promotional slogan for healthy eating.",
+                "time": 13.78,
+                "timespan": [
+                    10.1,
+                    13.78
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Eat your way to a healthy tomorrow, we are always committed to healthy eating!\"",
+                "time": 13.88,
+                "timespan": [
+                    13.88,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 21.107077433200015,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0483_man_20_shandong_1704.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Calculate 3 to the power of 5.",
+                "time": 12.78,
+                "timespan": [
+                    10.1,
+                    12.78
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The answer to 3 to the power of 5 is 243.",
+                "time": 12.88,
+                "timespan": [
+                    12.88,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "It was great talking to you, hope to see you soon!",
+                "time": 17.69797226451551,
+                "timespan": [
+                    17.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0416_man_20_shandong_1507.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The water is shallow. Turn this into a humorous sentence.",
+                "time": 11.7,
+                "timespan": [
+                    8.1,
+                    11.7
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The water is shallow, but I'm like a sponge; even if I squat down, it reaches my knees!",
+                "time": 11.8,
+                "timespan": [
+                    11.8,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 18.639827477370293,
+                "timespan": [
+                    18.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0433_woman_18_shandong_1557.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Edit the paragraph to make it concise and clear.",
+                "time": 12.82,
+                "timespan": [
+                    10.1,
+                    12.82
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Please provide the original paragraph, and I will try to reconstruct it to make it clearer and more concise.",
+                "time": 12.92,
+                "timespan": [
+                    12.92,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 19.37323028905062,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0485_woman_20_shandong_11815.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Come up with an original metaphor about crayons.",
+                "time": 11.98,
+                "timespan": [
+                    9.1,
+                    11.98
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Crayons are like human thoughts, they can leave vivid marks on paper or be randomly smudged, leaving a marred and chaotic impression. Over time, crayons get worn down, but as long as there is some left, they can continue to create beautiful pictures.",
+                "time": 12.08,
+                "timespan": [
+                    12.08,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 20.674039861779075,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0436_woman_22_shandong_11846.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a sentence using the words 'Africa', 'yellow', and 'science'.",
+                "time": 14.3,
+                "timespan": [
+                    9.1,
+                    14.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "As a scientist, he once went to Africa where he observed a bird with bright yellow feathers.",
+                "time": 14.4,
+                "timespan": [
+                    14.4,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Have a great day, looking forward to our next chat.",
+                "time": 22.302282434592204,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0413_man_20_shandong_1495.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a title summarizing this story.",
+                "time": 12.3,
+                "timespan": [
+                    10.1,
+                    12.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Since you did not provide any information about the story, as an AI, I am unable to write a title for you. If you provide a brief description or summary of the story, I would be happy to generate a title for you.",
+                "time": 12.4,
+                "timespan": [
+                    12.4,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Let's chat again sometime soon, looking forward to it!",
+                "time": 19.09076932574975,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0278_man_18_shandong_2143.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a one-sentence advertisement to promote a computer store.",
+                "time": 11.54,
+                "timespan": [
+                    8.1,
+                    11.54
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Looking for the latest, fastest, and most durable computers? Visit our computer store for a one-stop shopping experience!\"",
+                "time": 11.64,
+                "timespan": [
+                    11.64,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 20.751857490818036,
+                "timespan": [
+                    19.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0456_woman_18_shandong_11833.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose a color and provide several adjectives to describe it.",
+                "time": 11.1,
+                "timespan": [
+                    8.1,
+                    11.1
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Color: Blue Adjectives: Refreshing, profound, serene, noble, elegant",
+                "time": 11.2,
+                "timespan": [
+                    11.2,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Let's chat again sometime soon, looking forward to it!",
+                "time": 18.15098117223665,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0348_woman_18_shandong_1217.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an example tweet based on the keyword 'budget'.",
+                "time": 11.46,
+                "timespan": [
+                    8.1,
+                    11.46
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Setting a reasonable budget is key to financial management. Effectively tracking income and expenses helps us achieve our goals and avoid financial pitfalls. #Budget #FinancialManagement #FinancialTips\"",
+                "time": 11.56,
+                "timespan": [
+                    11.56,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "It was great talking to you, hope to see you soon!",
+                "time": 19.319311313169035,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0416_man_20_shandong_1508.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Name a software program that can be used to create a budget.",
+                "time": 12.18,
+                "timespan": [
+                    8.1,
+                    12.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A software program called 'BudgetMaster' can be used to create a budget.",
+                "time": 12.28,
+                "timespan": [
+                    12.28,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to delve deeper next time, all the best!",
+                "time": 20.732153775074675,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0275_man_18_shandong_2133.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the word for 'blue' in French?",
+                "time": 9.54,
+                "timespan": [
+                    7.1,
+                    9.54
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "In French, 'blue' is 'bleu' (masculine form) or 'bleue' (feminine form).",
+                "time": 9.64,
+                "timespan": [
+                    9.64,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Excited for our next conversation, take care!",
+                "time": 18.34032206309032,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0417_woman_20_shandong_11857.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Convert the sentence 'He quickly ran to the store' to past perfect tense.",
+                "time": 14.42,
+                "timespan": [
+                    10.1,
+                    14.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "He had quickly run to the store.",
+                "time": 14.52,
+                "timespan": [
+                    14.52,
+                    22.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 22.62216014293097,
+                "timespan": [
+                    22.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0414_man_19_shandong_1496.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Guide the assistant to classify the following sentence as 'positive' or 'negative': I like this new product.",
+                "time": 18.26,
+                "timespan": [
+                    10.1,
+                    18.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Positive.",
+                "time": 18.36,
+                "timespan": [
+                    18.36,
+                    22.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 23.476642014820968,
+                "timespan": [
+                    22.1,
+                    24.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0494_man_18_shandong_11809.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a riddle, the answer is 'honey'.",
+                "time": 9.58,
+                "timespan": [
+                    7.1,
+                    9.58
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A wealthy queen, \nLives in chocolate, \nWhat she does every day, \nMakes the world sweeter. \n(The answer: honey)",
+                "time": 9.68,
+                "timespan": [
+                    9.68,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Have a great day, looking forward to our next chat.",
+                "time": 15.745587702954364,
+                "timespan": [
+                    15.1,
+                    16.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0493_man_20_shandong_11811.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe a single application of machine learning in no more than 4 sentences.",
+                "time": 12.26,
+                "timespan": [
+                    7.1,
+                    12.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Facial recognition is a popular application of machine learning. It is based on computer algorithms to detect and verify faces from input images or video streams. Its applications include security verification, social media tagging, and photo organization. As technology advances, facial recognition is becoming faster, more accurate, and more widespread.",
+                "time": 12.36,
+                "timespan": [
+                    12.36,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget, let's meet again soon!",
+                "time": 16.583192959296582,
+                "timespan": [
+                    16.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0285_man_19_shandong_968.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which number is the largest: 1, 2, 3?",
+                "time": 11.74,
+                "timespan": [
+                    8.1,
+                    11.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "3 is the largest number.",
+                "time": 11.84,
+                "timespan": [
+                    11.84,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 16.197521090668047,
+                "timespan": [
+                    15.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0435_man_20_shandong_1561.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a haiku about summer.",
+                "time": 10.74,
+                "timespan": [
+                    9.1,
+                    10.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Green grass, long summer days,\nWarm and clear beneath blue skies,\nFragrant blooms arrayed.",
+                "time": 10.84,
+                "timespan": [
+                    10.84,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 18.521549550085727,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0448_woman_19_shandong_11839.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a poem about nature, no more than 40 words.",
+                "time": 10.22,
+                "timespan": [
+                    7.1,
+                    10.22
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Green hills obscure the clear waters, flowers scent the path as birds sing. Leaves on the branches sway gently, nature is tranquil and charming.",
+                "time": 10.32,
+                "timespan": [
+                    10.32,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Great talking to you, see you next time!",
+                "time": 16.341338694846574,
+                "timespan": [
+                    15.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0456_woman_18_shandong_1620.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the average lifespan of a cat?",
+                "time": 12.06,
+                "timespan": [
+                    9.1,
+                    12.06
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The most common household cat in the world has an average lifespan of 13 to 17 years, but this is just an approximate figure. A cat's lifespan depends on many factors, including its breed, genetics, lifestyle, and health care. Some cats can live over 20 years.",
+                "time": 12.16,
+                "timespan": [
+                    12.16,
+                    14.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 15.233764993243621,
+                "timespan": [
+                    14.1,
+                    16.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0290_woman_20_shandong_989.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cat, pig, dog, rearrange them in alphabetical order.",
+                "time": 11.86,
+                "timespan": [
+                    8.1,
+                    11.86
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "In alphabetical order in Pinyin, they are: pig, dog, cat (zh\u016b, g\u01d2u, m\u0101o).",
+                "time": 11.96,
+                "timespan": [
+                    11.96,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 19.82072017131877,
+                "timespan": [
+                    18.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0422_man_19_shandong_1529.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a 2-3 sentence advertisement script for a horror movie.",
+                "time": 13.62,
+                "timespan": [
+                    8.1,
+                    13.62
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "This thrilling horror movie will take you into the abyss of the unknown. When shadows fall and fear descends, there's nowhere to run. Stay tuned for this horror blockbuster and experience true terror.",
+                "time": 13.72,
+                "timespan": [
+                    13.72,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Have a great day, looking forward to our next chat.",
+                "time": 17.7354155341906,
+                "timespan": [
+                    17.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0455_woman_18_shandong_11835.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a four-line poem about a storm.",
+                "time": 10.7,
+                "timespan": [
+                    8.1,
+                    10.7
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The storm strikes, forcing people to retreat, the world is shrouded in darkness. Lightning and thunder roar like a wrath, the sound of waves crashing frightens. The whirlwind stirs branches, rain washes unnoticed cries. Now we wait for wind and rain to cease, after the storm, the sky is clear again.",
+                "time": 10.8,
+                "timespan": [
+                    10.8,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 17.34368290484744,
+                "timespan": [
+                    16.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0464_woman_20_shandong_11828.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Expand the input content with three sentences. He prepared strawberry tarts for the party.",
+                "time": 17.22,
+                "timespan": [
+                    10.1,
+                    17.22
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "He thought strawberry tarts were a dessert that was very suitable for family gatherings. Each tart was beautifully decorated with a fresh strawberry on top. He hoped it would provide the guests with a pleasant taste experience.",
+                "time": 17.32,
+                "timespan": [
+                    17.32,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Really happy to have met you, until next time!",
+                "time": 20.57691783243662,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0481_man_20_shandong_1695.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate 4 lists of text attributes",
+                "time": 12.74,
+                "timespan": [
+                    10.1,
+                    12.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Number of characters\n2. Number of words\n3. Number of sentences\n4. Language type",
+                "time": 12.84,
+                "timespan": [
+                    12.84,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to talk longer next time, take care!",
+                "time": 19.501656495524504,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0284_man_19_shandong_964.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following sentence into a topic category: The price of soybeans is steadily increasing.",
+                "time": 15.3,
+                "timespan": [
+                    9.1,
+                    15.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Topic category: Agricultural economy.",
+                "time": 15.4,
+                "timespan": [
+                    15.4,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "It was great talking to you, hope to see you soon!",
+                "time": 19.240511214575804,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0457_man_19_shandong_1621.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me an opening line for a short story about an elderly couple.",
+                "time": 11.46,
+                "timespan": [
+                    8.1,
+                    11.46
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "In the remnant winter of Beijing, snowflakes danced as an elderly couple strolled hand in hand along the park's winding path, their gray hair gently swaying in the cold wind.",
+                "time": 11.56,
+                "timespan": [
+                    11.56,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to delve deeper next time, all the best!",
+                "time": 20.452981143245868,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0350_man_18_shandong_1223.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a news article headline about electric vehicles.",
+                "time": 13.34,
+                "timespan": [
+                    9.1,
+                    13.34
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"The Future of Electric Vehicles: Technological Innovations Meet Stricter Emission Standards for Clean Energy Transportation\"",
+                "time": 13.44,
+                "timespan": [
+                    13.44,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 20.374435169354204,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0424_woman_20_shandong_1534.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A car is traveling at a speed of 25 miles per hour. How much distance can it cover in 4 hours?",
+                "time": 14.78,
+                "timespan": [
+                    8.1,
+                    14.78
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A car traveling at a speed of 25 miles per hour can cover 100 miles in 4 hours.\nThe calculation is: 25 miles/hour \u00d7 4 hours = 100 miles.",
+                "time": 14.88,
+                "timespan": [
+                    14.88,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 22.061494866628543,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0430_woman_39_shandong_11850.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following emotions - shame, pride, joy",
+                "time": 12.62,
+                "timespan": [
+                    7.1,
+                    12.62
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Shame - negative emotion\nPride - positive emotion\nJoy - positive emotion",
+                "time": 12.72,
+                "timespan": [
+                    12.72,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget to come back and chat with me!",
+                "time": 20.13741162050107,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0425_man_21_shandong_1538.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the following list of integers from smallest to largest: [-9, 0, 5, 12, 19]",
+                "time": 16.18,
+                "timespan": [
+                    8.1,
+                    16.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The list of integers has been sorted from smallest to largest: [-9, 0, 5, 12, 19]",
+                "time": 16.28,
+                "timespan": [
+                    16.28,
+                    22.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 22.760849147584526,
+                "timespan": [
+                    22.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0276_man_18_shandong_2135.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a descriptive phrase to describe a painting of a forest at sunset.",
+                "time": 11.94,
+                "timespan": [
+                    7.1,
+                    11.94
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "In the scorching afterglow of the sunset, a lush forest is bathed in soft orange-red light, as if the whole world is enveloped in a warm and peaceful atmosphere.",
+                "time": 12.04,
+                "timespan": [
+                    12.04,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget to come back and chat with me!",
+                "time": 20.66388098037929,
+                "timespan": [
+                    18.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0412_man_19_shandong_1493.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Name a country with a population of over fifty million.",
+                "time": 15.3,
+                "timespan": [
+                    11.1,
+                    15.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "India. India is one of the most populous countries in the world, with a total population of over 1.3 billion.",
+                "time": 15.4,
+                "timespan": [
+                    15.4,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Thanks for your time, let's catch up later.",
+                "time": 19.361178653138925,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0281_man_18_shandong_958.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Turn the following sentence into a more formal one: \"You are my favorite assistant.\"",
+                "time": 12.82,
+                "timespan": [
+                    8.1,
+                    12.82
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "You are the assistant I most favor.",
+                "time": 12.92,
+                "timespan": [
+                    12.92,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 19.051232049709597,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0288_man_19_shandong_980.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a five-line poem about heartbreak.",
+                "time": 11.5,
+                "timespan": [
+                    8.1,
+                    11.5
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Having seen the flowers of the mundane world bloom and wither,\nBrewing full of longing and tears,\nHiding the wounds, only to endure in silence,\nHeartbroken, falling like maple leaves.\nPromises fade, who will come to comfort the desolation.",
+                "time": 11.6,
+                "timespan": [
+                    11.6,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 18.25784212065076,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0450_man_18_shandong_1598.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "John and Mary want to visit the museum, rewrite the sentence by changing its grammar or structure.",
+                "time": 16.14,
+                "timespan": [
+                    9.1,
+                    16.14
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Visiting the museum is John and Mary's wish. Rewrite completed.",
+                "time": 16.24,
+                "timespan": [
+                    16.24,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 21.196630083717352,
+                "timespan": [
+                    19.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0287_man_19_shandong_2159.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a slogan for a new shoe brand.",
+                "time": 11.18,
+                "timespan": [
+                    8.1,
+                    11.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Steps without limits, the world at your fingertips\"",
+                "time": 11.28,
+                "timespan": [
+                    11.28,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Great talking to you, see you next time!",
+                "time": 17.264329769270468,
+                "timespan": [
+                    16.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0478_woman_19_shandong_1687.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a multiplication equation with consecutive numbers that includes the given number 14. Create a slogan for a new digital camera.",
+                "time": 19.14,
+                "timespan": [
+                    9.1,
+                    19.14
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "7 \u00d7 2 = 14",
+                "time": 19.24,
+                "timespan": [
+                    19.24,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 21.679213346122047,
+                "timespan": [
+                    21.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0434_woman_18_shandong_1560.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a five-line poem about a family dog.",
+                "time": 11.66,
+                "timespan": [
+                    9.1,
+                    11.66
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A loyal dog serves,\nAlways by the family's side,\nJoy in the yard it finds,\nFaithful to its master, never strays,\nProtects the home with no complaints.",
+                "time": 11.76,
+                "timespan": [
+                    11.76,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to talk longer next time, take care!",
+                "time": 22.1921399001298,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0451_man_18_shandong_1600.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a poem about apples.",
+                "time": 11.1,
+                "timespan": [
+                    9.1,
+                    11.1
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Apples are as red as fire, their sweetness fills the heart.",
+                "time": 11.2,
+                "timespan": [
+                    11.2,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 18.514625050412224,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0437_woman_18_shandong_1566.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a suitable title for a book based on the following context.",
+                "time": 11.9,
+                "timespan": [
+                    8.1,
+                    11.9
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "To better serve you, I need to understand the basic context of the book you're seeking a title for. For example, what is the story about, the background, the theme, etc.",
+                "time": 12.0,
+                "timespan": [
+                    12.0,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 19.293345604018633,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0491_man_22_shandong_10101.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate five adjectives to describe red roses.",
+                "time": 10.42,
+                "timespan": [
+                    7.1,
+                    10.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Of course. Here is an example of a polite request:\n\nCustomer: Hello, can you help me find the nearest gym?\n\nAssistant: Of course, sir/madam. Please wait a moment, I am looking up the address of the nearest gym for you.",
+                "time": 10.52,
+                "timespan": [
+                    10.52,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 15.616195187836198,
+                "timespan": [
+                    15.1,
+                    16.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0272_woman_18_shandong_2124.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Post a tweet about recent developments in artificial intelligence.",
+                "time": 12.62,
+                "timespan": [
+                    9.1,
+                    12.62
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Artificial intelligence is developing at an astonishing rate, and recently we've seen great advances in areas such as natural language processing, computer vision, and machine learning. It is expected to change the way we live and work in the future. #ArtificialIntelligence #RecentDevelopments\"",
+                "time": 12.72,
+                "timespan": [
+                    12.72,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 19.33104262666292,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0273_man_18_shandong_2126.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Edit the following sentence to make it grammatically correct: 'It is dinner time now, I am hungry.'",
+                "time": 14.22,
+                "timespan": [
+                    8.1,
+                    14.22
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "'It is dinner time now, I am hungry.'\n\nThis sentence is already grammatically correct, no need for modification.",
+                "time": 14.32,
+                "timespan": [
+                    14.32,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 21.515548192971266,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0437_woman_18_shandong_1565.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The mayor was accused of corruption, generate a news headline.",
+                "time": 14.7,
+                "timespan": [
+                    10.1,
+                    14.7
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Mayor Faces Corruption Charges: Police Launch Investigation",
+                "time": 14.8,
+                "timespan": [
+                    14.8,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Let's chat again sometime soon, looking forward to it!",
+                "time": 20.624855104905105,
+                "timespan": [
+                    20.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0347_woman_18_shandong_1210.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an imperative sentence that says: 'Lie on the sofa.'",
+                "time": 11.86,
+                "timespan": [
+                    8.1,
+                    11.86
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Please lie on the sofa.",
+                "time": 11.96,
+                "timespan": [
+                    11.96,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 19.43184224683959,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0468_woman_19_shandong_1653.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a slogan for an online retail store.",
+                "time": 12.74,
+                "timespan": [
+                    9.1,
+                    12.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Anytime, anywhere, your shopping partner\"",
+                "time": 12.84,
+                "timespan": [
+                    12.84,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 19.609001931000417,
+                "timespan": [
+                    19.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0465_woman_20_shandong_11827.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List three social media platforms.",
+                "time": 11.54,
+                "timespan": [
+                    9.1,
+                    11.54
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Facebook\n2. Twitter\n3. Instagram.",
+                "time": 11.64,
+                "timespan": [
+                    11.64,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 15.617131022964806,
+                "timespan": [
+                    15.1,
+                    16.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0427_man_18_shandong_11852.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a new sentence comparing the corruption levels in North America and the Middle East.",
+                "time": 14.62,
+                "timespan": [
+                    10.1,
+                    14.62
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "According to data from Transparency International, the level of corruption in North America is generally lower than in the Middle East, with Canada's and the United States' corruption indices significantly better than countries like Iraq and Afghanistan.",
+                "time": 14.72,
+                "timespan": [
+                    14.72,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Look forward to seeing you again, take care.",
+                "time": 21.36300701792591,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0414_man_19_shandong_1498.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a factual sentence.",
+                "time": 11.94,
+                "timespan": [
+                    10.1,
+                    11.94
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "According to data from the World Health Organization, China is currently the most populous country in the world.",
+                "time": 12.04,
+                "timespan": [
+                    12.04,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "It was great talking to you, hope to see you soon!",
+                "time": 19.26135561224584,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0462_man_19_shandong_1635.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey! Can you pass that to me? Which sentence is more polite - write the more polite version.",
+                "time": 14.26,
+                "timespan": [
+                    8.1,
+                    14.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A more polite expression might be: Could you please pass that to me? Thank you very much!",
+                "time": 14.36,
+                "timespan": [
+                    14.36,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 22.463082572127718,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0477_woman_18_shandong_1682.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a haiku about 'change'.",
+                "time": 12.1,
+                "timespan": [
+                    10.1,
+                    12.1
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Trees' green branches change,\nMigratory birds fly south,\nAll things change with spring.",
+                "time": 12.2,
+                "timespan": [
+                    12.2,
+                    22.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 22.772111927798747,
+                "timespan": [
+                    22.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0439_woman_19_shandong_11844.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a sentence describing a person with both positive and negative personality traits.",
+                "time": 13.5,
+                "timespan": [
+                    9.1,
+                    13.5
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "This person is both sunny and optimistic, enthusiastic and generous, but also easily impulsive and irritable, and often worried about small things.",
+                "time": 13.6,
+                "timespan": [
+                    13.6,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Thanks for your time, let's catch up later.",
+                "time": 22.295061558012208,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0484_man_19_shandong_1705.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a caption for this photo: John at the beach.",
+                "time": 13.82,
+                "timespan": [
+                    10.1,
+                    13.82
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Sunshine warmth, beach fun: John enjoying his time at the seaside\"",
+                "time": 13.92,
+                "timespan": [
+                    13.92,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Thanks for your time, let's catch up later.",
+                "time": 21.473875730189487,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0429_man_26_shandong_1546.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Group the following words: apple, banana, orange, watermelon.",
+                "time": 14.18,
+                "timespan": [
+                    9.1,
+                    14.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Fruit group: apple, banana, orange, watermelon",
+                "time": 14.28,
+                "timespan": [
+                    14.28,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 21.700866090325103,
+                "timespan": [
+                    20.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0330_man_19_shandong_6101.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a sentence under 10 characters using the word 'tenacious'.",
+                "time": 14.06,
+                "timespan": [
+                    10.1,
+                    14.06
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Tenacious, stronger than adversity.",
+                "time": 14.16,
+                "timespan": [
+                    14.16,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 19.330252251464405,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0459_woman_21_shandong_1628.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a two-sentence review of a podcast exploring the intersection of technology and mental health.",
+                "time": 13.3,
+                "timespan": [
+                    8.1,
+                    13.3
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "This podcast explores the intersection of technology and mental health, offering us novel and in-depth perspectives and analysis. It not only helps us understand how these topics influence each other, but also inspires us to think about how to better utilize technology to improve our mental health.",
+                "time": 13.4,
+                "timespan": [
+                    13.4,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 21.773167227357515,
+                "timespan": [
+                    19.1,
+                    24.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0446_woman_19_shandong_1587.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Who invented the can opener?",
+                "time": 10.34,
+                "timespan": [
+                    9.1,
+                    10.34
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The can opener was invented by an American named Ezra Warner, who obtained the patent for the can opener in 1858. This type of can opener was initially used in grocery stores, where consumers would have store clerks use the can opener to open cans for them when buying food.",
+                "time": 10.44,
+                "timespan": [
+                    10.44,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 18.446257197149613,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0417_woman_20_shandong_1509.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give two examples of web browsers.",
+                "time": 12.18,
+                "timespan": [
+                    9.1,
+                    12.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Chrome and Firefox are examples of commonly used web browsers.",
+                "time": 12.28,
+                "timespan": [
+                    12.28,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 20.47639271055869,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0420_man_21_shandong_1522.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "For the sentiment analysis task, classify the following sentence\u2014'This restaurant was a great experience!'",
+                "time": 19.06,
+                "timespan": [
+                    11.1,
+                    19.06
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "This sentence expresses positive emotion, indicating that the restaurant left a good impression. It can be categorized as a 'positive review.'",
+                "time": 19.16,
+                "timespan": [
+                    19.16,
+                    23.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 24.3561467678067,
+                "timespan": [
+                    23.1,
+                    25.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0471_man_19_shandong_1661.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose a suitable word to replace '\u6362\u53e5\u8bdd\u8bf4' in the following sentence.",
+                "time": 14.02,
+                "timespan": [
+                    10.1,
+                    14.02
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Here are some common phrases that can replace '\u6362\u53e5\u8bdd\u8bf4':\n\n1. That is to say\n2. In other words\n3. Namely\n4. Means\n5. In other terms\n6. Simply put\n7. Generally speaking\n8. In summary\n9. Actually\n10. In a word",
+                "time": 14.12,
+                "timespan": [
+                    14.12,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 22.139710387458585,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0472_man_20_shandong_1669.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a title for a story about a lost dog.",
+                "time": 10.78,
+                "timespan": [
+                    8.1,
+                    10.78
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The Journey of a Loyal Lost Dog",
+                "time": 10.88,
+                "timespan": [
+                    10.88,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 17.55194874755087,
+                "timespan": [
+                    17.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0347_woman_18_shandong_1215.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Name a feature of a hammer.",
+                "time": 9.38,
+                "timespan": [
+                    8.1,
+                    9.38
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "A feature of a hammer is its sturdy, flat striking head, used for hitting objects.",
+                "time": 9.48,
+                "timespan": [
+                    9.48,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 17.507871054399825,
+                "timespan": [
+                    16.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0285_man_19_shandong_965.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List 5 computer programming languages.",
+                "time": 11.42,
+                "timespan": [
+                    8.1,
+                    11.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Python\n2. Java\n3. C++\n4. JavaScript\n5. C#",
+                "time": 11.52,
+                "timespan": [
+                    11.52,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope to talk longer next time, take care!",
+                "time": 16.09437669732962,
+                "timespan": [
+                    15.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0348_woman_18_shandong_1218.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a suitable title: The Link Between Air Pollution and Heart Health",
+                "time": 12.74,
+                "timespan": [
+                    8.1,
+                    12.74
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Crisis in the Haze: The Impact of Air Pollution on Heart Health",
+                "time": 12.84,
+                "timespan": [
+                    12.84,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 20.508500163339765,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0436_woman_22_shandong_1563.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design, develop, implement, test, and maintain software using engineering methods. Summary in up to 15 words.",
+                "time": 19.1,
+                "timespan": [
+                    9.1,
+                    19.1
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Software development requires engineering methods for design, development, implementation, testing, and maintenance.",
+                "time": 19.2,
+                "timespan": [
+                    19.2,
+                    23.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 24.311031324803096,
+                "timespan": [
+                    23.1,
+                    25.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0453_woman_19_shandong_11838.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the use of simple linear regression model? Within 50 words.",
+                "time": 11.42,
+                "timespan": [
+                    8.1,
+                    11.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The simple linear regression model is used to study the linear relationship between two variables. It can be used to predict the value of a variable, analyze the correlation between variables, and provides an important quantitative research method for fields like data science, machine learning, and economics.",
+                "time": 11.52,
+                "timespan": [
+                    11.52,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 18.194351018807307,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0286_man_19_shandong_973.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the following words in alphabetical order: basketball, dancing, sports.",
+                "time": 14.42,
+                "timespan": [
+                    8.1,
+                    14.42
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "dancing, basketball, sports.",
+                "time": 14.52,
+                "timespan": [
+                    14.52,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Thanks for your time, let's catch up later.",
+                "time": 20.230268668562168,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0458_man_18_shandong_1626.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a sentence about dolphins.",
+                "time": 9.82,
+                "timespan": [
+                    8.1,
+                    9.82
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Dolphins are intelligent and gentle animals, capable of gracefully leaping out of the water in the ocean while emitting pleasant chirping sounds.",
+                "time": 9.92,
+                "timespan": [
+                    9.92,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hate to end it, let's chat again!",
+                "time": 17.311331206289452,
+                "timespan": [
+                    16.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0435_man_20_shandong_1562.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assign types to the following words: balance, protection, synergy.",
+                "time": 11.7,
+                "timespan": [
+                    7.1,
+                    11.7
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Balance - noun\nProtection - verb/noun\nSynergy - noun",
+                "time": 11.8,
+                "timespan": [
+                    11.8,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Can't wait for our next conversation, stay well!",
+                "time": 20.084705758775563,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0274_woman_18_shandong_2130.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe this dog with five adjectives.",
+                "time": 9.46,
+                "timespan": [
+                    7.1,
+                    9.46
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "I can't see the specific dog you are referring to, so I can't provide specific adjectives about it. If you can provide some information about the dog, I can help you find suitable adjectives.",
+                "time": 9.56,
+                "timespan": [
+                    9.56,
+                    15.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 16.521429971617426,
+                "timespan": [
+                    15.1,
+                    17.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0420_man_21_shandong_1519.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Name an animal that lives in India.",
+                "time": 11.14,
+                "timespan": [
+                    9.1,
+                    11.14
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The national animal of India is the Bengal tiger, which is an animal that lives in India.",
+                "time": 11.24,
+                "timespan": [
+                    11.24,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Wish we could talk longer, see you next time!",
+                "time": 18.63447850495936,
+                "timespan": [
+                    18.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0413_man_20_shandong_1494.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a list of ten animal names.",
+                "time": 12.18,
+                "timespan": [
+                    10.1,
+                    12.18
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Lion\n2. Tiger\n3. Elephant\n4. Panda\n5. Giraffe\n6. Cheetah\n7. Gorilla\n8. Hippopotamus\n9. Crocodile\n10. Kangaroo",
+                "time": 12.28,
+                "timespan": [
+                    12.28,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Thanks for your time, let's catch up later.",
+                "time": 19.27758086929659,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0275_man_18_shandong_2132.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 7.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a haiku using the provided words: wind, cloud, sky.",
+                "time": 11.94,
+                "timespan": [
+                    7.1,
+                    11.94
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "The wind gently brushes past,\nClouds stretch leisurely,\nThe vast, boundless sky.",
+                "time": 12.04,
+                "timespan": [
+                    12.04,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Hope you have a great day, see you soon!",
+                "time": 18.235246299758824,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0432_man_19_shandong_11849.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create five descriptive words for the smell of churros.",
+                "time": 11.82,
+                "timespan": [
+                    9.1,
+                    11.82
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Fragrant\n2. Crispy and enticing\n3. Rich aroma\n4. Tempting scent\n5. Pungent",
+                "time": 11.92,
+                "timespan": [
+                    11.92,
+                    18.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Enjoyed our chat, let's do it again sometime!",
+                "time": 19.36106753639652,
+                "timespan": [
+                    18.1,
+                    20.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0277_man_18_shandong_2139.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a haiku about seasons.",
+                "time": 10.54,
+                "timespan": [
+                    8.1,
+                    10.54
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Autumn colors paint the branches,\nRed leaves dance with the wind.\nWinter clouds slowly come.",
+                "time": 10.64,
+                "timespan": [
+                    10.64,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Really happy to have met you, until next time!",
+                "time": 18.298260813959406,
+                "timespan": [
+                    17.1,
+                    19.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0481_man_20_shandong_11819.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 10.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is this sentence a complete thought? Output true or false.",
+                "time": 14.5,
+                "timespan": [
+                    10.1,
+                    14.5
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "This sentence is a complete thought. True.",
+                "time": 14.6,
+                "timespan": [
+                    14.6,
+                    20.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 21.28755809265325,
+                "timespan": [
+                    20.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0440_woman_19_shandong_1574.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 11.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a list of 5 social issues in the world today.",
+                "time": 14.14,
+                "timespan": [
+                    11.1,
+                    14.14
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Climate change and global warming 2. Poverty and economic inequality 3. Political conflict and terrorism 4. Discrimination and racism 5. Hunger and malnutrition",
+                "time": 14.24,
+                "timespan": [
+                    14.24,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Great talking to you, see you next time!",
+                "time": 22.374133077911342,
+                "timespan": [
+                    21.1,
+                    23.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0475_woman_20_shandong_1677.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write down three adjectives to describe a cake.",
+                "time": 11.26,
+                "timespan": [
+                    9.1,
+                    11.26
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Sweet, fluffy, rich.",
+                "time": 11.36,
+                "timespan": [
+                    11.36,
+                    21.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Really happy to have met you, until next time!",
+                "time": 21.57611036355678,
+                "timespan": [
+                    21.1,
+                    22.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0482_man_18_hebei_1696.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe a space station in one sentence.",
+                "time": 10.9,
+                "timespan": [
+                    9.1,
+                    10.9
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "1. Number of characters\n2. Number of words\n3. Number of sentences\n4. Language type",
+                "time": 11.0,
+                "timespan": [
+                    11.0,
+                    17.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Don't forget, let's meet again soon!",
+                "time": 17.652548075973087,
+                "timespan": [
+                    17.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0280_man_19_shandong_2148.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 8.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a command sentence to give the user instructions.",
+                "time": 12.02,
+                "timespan": [
+                    8.1,
+                    12.02
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Please follow these steps: first open the Settings menu, then scroll to the bottom of the screen and tap 'Sound & Vibration', and then turn off or adjust the notification sound volume.\"",
+                "time": 12.12,
+                "timespan": [
+                    12.12,
+                    19.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Looking forward to our next meeting, take care!",
+                "time": 20.16328230738056,
+                "timespan": [
+                    19.1,
+                    21.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0468_woman_19_shandong_1655.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 9.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a T-shirt with an interesting slogan.",
+                "time": 12.14,
+                "timespan": [
+                    9.1,
+                    12.14
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "\"Anytime, Anywhere, Your Shopping Partner\"",
+                "time": 12.24,
+                "timespan": [
+                    12.24,
+                    16.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Come back to talk more next time!",
+                "time": 17.228069713582688,
+                "timespan": [
+                    16.1,
+                    18.0
+                ]
+            }
+        ]
+    },
+    {
+        "video": "Visual_Wake-Up_and_Termination/01_0418_woman_20_shandong_1514.mp4",
+        "task_type": "Visual Termination",
+        "video_start_time": 12.0,
+        "proactive": true,
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords and convert them to tags. Input: Focus on nature conservation and protection",
+                "time": 19.78,
+                "timespan": [
+                    12.1,
+                    19.78
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Output: ['nature conservation', 'protection']",
+                "time": 19.88,
+                "timespan": [
+                    19.88,
+                    26.0
+                ]
+            },
+            {
+                "from": "gpt",
+                "value": "Nice meeting you, let's continue next time!",
+                "time": 27.09982629433175,
+                "timespan": [
+                    26.1,
+                    28.0
+                ]
+            }
+        ]
+    }
+]

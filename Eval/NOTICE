@@ -1,0 +1,12 @@
+OneStreamer evaluation integration
+Copyright 2026 OneStreamer contributors.
+
+Original OneStreamer project code is licensed under the Apache License, Version 2.0.
+Third-party components retain their original copyright notices and licenses:
+
+- VLMEvalKit: VLMEvalKit/LICENSE (Copyright 2023 VLMEvalKit Authors).
+- ViSpeak-Bench: Proactive_Eval/ViSpeak-Bench/LICENSE.txt.
+
+SOURCE_MANIFEST.json records the retained source components and modifications.
+Dataset annotations, ASR transcripts, example videos and model checkpoints remain
+subject to their respective source terms; the code license does not relicense them.
