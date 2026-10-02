@@ -6,14 +6,15 @@
 <h3 align="center">Unifying Perception, Memory, and Proactive Response<br>in Streaming Video Interaction</h3>
 
 <p align="center">
-  Xiangyu Zeng*, Yuandong Yang*, Zhiqiu Zhang*, Yuhan Zhu*, Xinhao Li*, Qingyi Si*<br>
-  Changlian Ma, Yansong Shi, Haoran Chen, Xinyu Chen, Dingyu Yao, Junhao Zhou<br>
-  Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang<br>
-  Yuchen Shao, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang†
+  Xiangyu Zeng<sup>1,*</sup>, Yuandong Yang<sup>1,*</sup>, Zhiqiu Zhang<sup>2,4,*</sup>, Yuhan Zhu<sup>1,*</sup>, Xinhao Li<sup>1,*</sup>, Qingyi Si<sup>3,*</sup><br>
+  Dingyu Yao<sup>6</sup>, Changlian Ma<sup>1,2</sup>, Haoran Chen<sup>1,2</sup>, Xinyu Chen<sup>1,2</sup>, Yansong Shi<sup>2,5</sup>, Junhao Zhou<sup>6</sup><br>
+  Yifei Li<sup>9</sup>, Jun Zhang<sup>1,3</sup>, Chuanyu Qin<sup>6</sup>, Chenxu Yang<sup>6</sup>, Xinlei Yu<sup>7</sup>, Kun Ouyang<sup>8</sup><br>
+  Yuchen Shao<sup>6</sup>, Qianshan Wei<sup>6</sup>, Changhai Zhou<sup>10</sup>, Jun Gao<sup>11</sup>, Jiaqi Wang<sup>3</sup>, Limin Wang<sup>1,†</sup>
 </p>
 
 <p align="center">
-  NJU · SHAILab · JD · SJTU · USTC · CAS · CUHK · PKU · THU · FDU · ZJU<br>
+  <sup>1</sup>NJU · <sup>2</sup>PJLAB · <sup>3</sup>JD · <sup>4</sup>SJTU · <sup>5</sup>USTC · <sup>6</sup>CAS<br>
+  <sup>7</sup>CUHK · <sup>8</sup>PKU · <sup>9</sup>THU · <sup>10</sup>FDU · <sup>11</sup>ZJU<br>
   <sub>* Equal contribution. † Corresponding author.</sub>
 </p>
 
