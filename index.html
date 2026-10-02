@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fafbf9">
+  <meta name="description" content="OneStreamer is a 4B model that unifies perception, memory, and proactive response in streaming video interaction.">
+  <meta property="og:title" content="OneStreamer unifies perception, memory, and response">
+  <meta property="og:description" content="Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction.">
+  <meta property="og:type" content="website">
+  <title>OneStreamer | Streaming Video Interaction</title>
+  <link rel="icon" href="assets/favicon.png" type="image/png" sizes="64x64">
+  <link rel="icon" href="assets/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" sizes="180x180">
+  <link rel="preload" href="assets/fonts/inter-variable.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="assets/videos/onestreamer-demo-poster.webp" as="image">
+  <link rel="stylesheet" href="styles.css?h=e02a361359bb">
+  <script src="app.js?h=6b14d43af684" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="icon-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+    <symbol id="icon-external" viewBox="0 0 24 24"><path d="M8 5H5v14h14v-3M12 5h7v7M10 14l9-9"/></symbol>
+    <symbol id="icon-paper" viewBox="0 0 24 24"><path d="M14 3H5v18h14V8ZM14 3v5h5M8 12h8M8 16h6"/></symbol>
+    <symbol id="icon-code" viewBox="0 0 24 24"><path d="m8 6-6 6 6 6m8-12 6 6-6 6M14 3l-4 18"/></symbol>
+    <symbol id="icon-data" viewBox="0 0 24 24"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v14c0 4 16 4 16 0V5M4 12c0 4 16 4 16 0"/></symbol>
+    <symbol id="icon-model" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4"/><rect x="10" y="10" width="4" height="4"/></symbol>
+    <symbol id="icon-expand" viewBox="0 0 24 24"><path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5M3 3l6 6m12-6-6 6M3 21l6-6m12 6-6-6"/></symbol>
+    <symbol id="icon-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="13" rx="2"/><path d="M15 8V3H3v12h5"/></symbol>
+  </svg>
+
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a href="#" class="brand" aria-label="OneStreamer home"><img class="brand-logo" src="assets/OneStreamer_Logo.webp" width="38" height="38" alt=""><span>OneStreamer</span></a>
+      <nav aria-label="Main navigation" id="main-nav">
+        <a href="#video-demo">Video</a><a href="#demo">In action</a><a href="#method">Method</a><a href="#dataset">Dataset</a><a href="#results">Results</a>
+      </nav>
+      <a class="nav-paper" href="https://arxiv.org/pdf/2610.01762" target="_blank" rel="noopener">Read the paper <svg><use href="#icon-external"/></svg></a>
+      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="main-nav"><span></span><span></span></button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="paper-title">
+      <div class="hero-inner">
+
+        <div class="hero-brand">
+          <img class="hero-logo" src="assets/OneStreamer_Logo.webp" width="160" height="160" alt="OneStreamer parrot logo">
+          <div class="hero-wordmark" data-text="OneStreamer" aria-hidden="true">OneStreamer</div>
+        </div>
+        <h1 id="paper-title"><span class="sr-only">OneStreamer: </span>Unifying Perception, Memory, and Proactive Response<br class="desktop-break"> in Streaming Video Interaction</h1>
+        <div class="authors" aria-label="Paper authors">
+          <span>Xiangyu Zeng<sup>*</sup></span><span>Yuandong Yang<sup>*</sup></span><span>Zhiqiu Zhang<sup>*</sup></span><span>Yuhan Zhu<sup>*</sup></span><span>Xinhao Li<sup>*</sup></span><span>Qingyi Si<sup>*</sup></span>
+          <span>Dingyu Yao</span><span>Changlian Ma</span><span>Haoran Chen</span><span>Xinyu Chen</span><span>Yansong Shi</span><span>Junhao Zhou</span>
+          <span>Yifei Li</span><span>Jun Zhang</span><span>Chuanyu Qin</span><span>Chenxu Yang</span><span>Xinlei Yu</span><span>Kun Ouyang</span>
+          <span>Yuchen Shao</span><span>Qianshan Wei</span><span>Changhai Zhou</span><span>Jun Gao</span><span>Jiaqi Wang</span><span>Limin Wang<sup>†</sup></span>
+        </div>
+        <p class="affiliations">NJU <i>·</i> SHAILab <i>·</i> JD <i>·</i> SJTU <i>·</i> USTC <i>·</i> CAS <i>·</i> CUHK <i>·</i> PKU <i>·</i> THU <i>·</i> FDU <i>·</i> ZJU</p>
+        <p class="author-notes"><sup>*</sup> Equal contribution <span><sup>†</sup> Corresponding author</span></p>
+        <div class="resource-links">
+          <a class="button button-primary" href="https://arxiv.org/pdf/2610.01762" target="_blank" rel="noopener"><svg><use href="#icon-paper"/></svg>Paper<svg class="button-arrow"><use href="#icon-external"/></svg></a>
+          <a class="button" href="https://github.com/MCG-NJU/OneStreamer.git" target="_blank" rel="noopener"><svg><use href="#icon-code"/></svg>Code<svg class="button-arrow"><use href="#icon-external"/></svg></a>
+          <a class="button" href="https://huggingface.co/datasets/MCG-NJU/OneStreamer-1M" target="_blank" rel="noopener"><svg><use href="#icon-data"/></svg>Dataset<svg class="button-arrow"><use href="#icon-external"/></svg></a>
+          <a class="button" href="https://huggingface.co/MCG-NJU/OneStreamer-4B" target="_blank" rel="noopener"><svg><use href="#icon-model"/></svg>Model<svg class="button-arrow"><use href="#icon-external"/></svg></a>
+        </div>
+        <figure class="hero-video" id="video-demo" aria-label="OneStreamer video demo">
+          <video id="hero-video-player" width="1920" height="1080" controls playsinline preload="none" poster="assets/videos/onestreamer-demo-poster.webp" aria-label="OneStreamer video demo: proactive response, memory, and perception">
+            <source src="assets/videos/onestreamer-demo.mp4?h=4b9da880c234" type="video/mp4">
+            <p><a href="assets/videos/onestreamer-demo.mp4?h=4b9da880c234">Watch the OneStreamer video demo.</a></p>
+          </video>
+          <button class="hero-video-play" id="hero-video-play" type="button" aria-label="Play OneStreamer video demo" hidden>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 11 7-11 7Z"/></svg>
+            <span id="hero-video-play-label">Watch demo</span><span class="hero-video-duration">2:57</span>
+          </button>
+        </figure>
+        <p class="hero-tagline">OneStreamer combines perception and memory to respond when evidence is sufficient.</p>
+        <div class="hero-stats">
+          <div><strong>4B</strong><span>Model parameters</span></div>
+          <div><strong>8<span>/8</span></strong><span>Benchmarks led</span></div>
+          <div><strong>1.16M</strong><span>Training records</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section demo-section" id="demo" aria-labelledby="demo-heading">
+      <div class="container">
+
+        <div class="section-heading"><h2 id="demo-heading">A moment passes. The evidence stays.</h2></div>
+        <div class="demo-tabs" role="tablist" aria-label="Select an example">
+          <button id="tab-memory" role="tab" aria-selected="true" aria-controls="demo-panel" data-demo="memory">Remembering past evidence</button>
+          <button id="tab-counting" role="tab" aria-selected="false" aria-controls="demo-panel" data-demo="counting" tabindex="-1">Proactive counting</button>
+        </div>
+        <div class="demo-player" id="demo-panel" role="tabpanel" aria-labelledby="tab-memory">
+          <div class="demo-visual">
+            <div class="frame-stage"><img id="demo-frame" src="assets/frames/memory-6.webp" width="960" height="540" alt="A hallway leading to a living room, long after the reading corner has left view."><div class="frame-top"><time id="frame-time">01:47</time></div><div class="frame-bottom"><span id="frame-caption">The reading corner is no longer in view.</span></div></div>
+            <div class="playback-controls"><button id="play-demo" class="play-button" aria-label="Replay selected keyframes"><span id="play-symbol" aria-hidden="true">▶</span><span id="play-label">Replay</span></button><input id="demo-scrubber" type="range" min="0" max="6" value="6" aria-label="Selected keyframe" aria-valuetext="01:47, answer using earlier evidence"><span id="playback-position">7 / 7</span></div>
+            <div class="frame-strip" id="frame-strip" aria-label="Jump to a keyframe"></div>
+          </div>
+          <div class="demo-transcript">
+
+            <div id="question-block" class="question-block"><div class="question-meta"><span class="transcript-label">User · <time id="question-time">01:47</time></span><span id="demo-state" class="state-label">Response</span></div><p id="demo-question">Where can my kids go to read?</p></div>
+            <div class="memory-heading"><span id="record-heading">Memory</span></div>
+            <div id="demo-records" class="demo-records"></div>
+            <div id="demo-answer" class="answer-block" aria-live="polite" aria-atomic="true"></div>
+          </div>
+        </div>
+
+        <details class="more-examples"><summary>More examples <span>+</span></summary><div class="extra-example-grid"><figure><button class="figure-button" data-lightbox="assets/figures/memory-examples.webp" data-caption="Recalling earlier observations"><img loading="lazy" src="assets/figures/memory-examples.webp" width="1800" height="1555" alt="Four examples recalling a wreath, clock, light switch, and bathroom painting."></button><figcaption>Recalling earlier observations</figcaption></figure><figure><button class="figure-button" data-lightbox="assets/figures/proactive-examples.webp" data-caption="Proactive responses"><img loading="lazy" src="assets/figures/proactive-examples.webp" width="1800" height="1520" alt="Proactive response examples including waiting for evidence, describing cooking, and counting events."></button><figcaption>Timely responses</figcaption></figure></div></details>
+      </div>
+    </section>
+
+    <section class="section overview-section" id="overview" aria-labelledby="overview-heading">
+      <div class="container">
+
+        <div class="overview-grid">
+          <h2 id="overview-heading">See. Remember. Know when to respond.</h2>
+          <div class="overview-copy"><p>Details observed in a live video may become relevant only after their frames have left the model’s visual context. <strong>OneStreamer preserves these observations as time-grounded factual memory.</strong> It combines recent visual evidence with proactively generated captions and learns when the available evidence is sufficient to record or respond.</p></div>
+        </div>
+
+        <figure class="paper-figure task-figure"><button class="figure-button" data-lightbox="assets/figures/three-tasks.webp" data-caption="Memory, perception, and proactive QA"><img loading="lazy" src="assets/figures/three-tasks.webp" width="1800" height="331" alt="Memory QA uses earlier evidence; perception QA uses current evidence; proactive QA receives the question before the supporting evidence arrives."></button></figure>
+        <details class="abstract-details"><summary>Read the full abstract <span>+</span></summary><p>Streaming video LLMs must retain evidence before its relevance to future tasks is known and respond when sufficient evidence becomes available. The challenge is to form reusable factual memory without compromising real-time perception. We introduce <strong>OneStreamer</strong>, which jointly learns query-independent evidence recording and task response through a shared proactive generation process. Its <strong>Proactive Hierarchical Caption Memory (PHCM)</strong> produces time-grounded local-detail captions and summaries of completed events. Streaming caption targets supervise the interpretation of observed video prefixes during training. At inference, model-generated records complement a recent visual window, providing reusable factual context without revisiting historical visual features. <strong>Proactive State Transition Learning (PSTL)</strong> reduces the dominance of repeated waiting states by preserving supervision at all output anchors and selecting representative state-change and state-persistence tokens. We further develop a streaming data synthesis pipeline that aligns output content and timing with available evidence. Combining the resulting streaming captions and QA with cleaned open-source data yields <strong>OneStreamer-1M</strong>, a broad-coverage streaming video interaction dataset with over one million records spanning diverse tasks. Our 4B model achieves the best results among the compared methods across all eight evaluated streaming video understanding benchmarks. Ablations show that retaining generated captions improves historical QA without degrading real-time perception. PSTL also outperforms dense state supervision while supervising only 27.5% of annotated state tokens. Together, these results support proactive generation as a shared learning interface connecting perception, memory formation, and timely response in streaming video interaction.</p></details>
+      </div>
+    </section>
+
+    <section class="section" id="method" aria-labelledby="method-heading">
+      <div class="container">
+
+        <div class="section-heading"><h2 id="method-heading">How OneStreamer works.</h2><p>One causal visual–language sequence brings together current frames, past caption records, and the ongoing dialogue.</p></div>
+        <figure class="paper-figure architecture-figure"><button class="figure-button" data-lightbox="assets/figures/architecture.webp?h=9fd472a177f9" data-caption="OneStreamer architecture"><img loading="lazy" src="assets/figures/architecture.webp?h=9fd472a177f9" width="3000" height="957" alt="A live video passes through a vision encoder and LLM. Recent visual tokens are interleaved with historical Observe and Summary records; control tokens govern new records and responses."></button></figure>
+        <div class="method-pair">
+          <article class="method-article"><h3>Turn observations into factual memory.</h3><p><strong>Proactive Hierarchical Caption Memory</strong> records local details with <code>&lt;/Observe&gt;</code> and completed events with <code>&lt;/Summary&gt;</code>. These records remain available after the source frames leave the recent visual window.</p><div class="memory-stack"><div><span class="record-dot observe-dot"></span><span>Local details</span><code>&lt;/Observe&gt;</code></div><div><span class="record-dot summary-dot"></span><span>Event summaries</span><code>&lt;/Summary&gt;</code></div><div class="stack-output"><span>Recent visual window + caption history</span><svg><use href="#icon-arrow"/></svg></div></div></article>
+          <article class="method-article"><h3>Learn the moments that call for an output.</h3><p><strong>Proactive State Transition Learning</strong> preserves all output anchors and selects representative state changes and state-persistence positions. All control tokens remain in the sequence; only the state loss is masked.</p><figure class="paper-figure state-figure"><button class="figure-button" data-lightbox="assets/figures/state-transition.webp" data-caption="Learning when to record and respond"><img loading="lazy" src="assets/figures/state-transition.webp" width="1800" height="241" alt="A sequence of Silence, Standby, and Response states with selected Keep and Transform positions supervised; repetitive states are masked from the loss."></button></figure></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section dataset-section" id="dataset" aria-labelledby="dataset-heading">
+      <div class="container">
+
+        <div class="section-heading"><h2 id="dataset-heading">OneStreamer-1M: Grounded in evidence.</h2><p>Synthesized streaming captions and QA join cleaned open-source data in a shared format. Every target is aligned with evidence available at its assigned time.</p></div>
+        <div class="dataset-grid">
+          <figure class="dataset-chart"><button class="figure-button" data-lightbox="assets/figures/data-composition.webp" data-caption="OneStreamer-1M task composition"><img loading="lazy" src="assets/figures/data-composition.webp" width="984" height="984" alt="OneStreamer-1M task distribution across perception and memory QA, proactive QA, proactive interaction, and caption memory."></button></figure>
+          <div class="dataset-breakdown"><div class="dataset-total"><strong>1,160,004</strong><span>streaming annotation records</span></div><div class="data-row"><span class="data-dot" style="--dot:#88a38c"></span><span>Perception &amp; Memory QA</span><strong>630,850</strong></div><div class="data-row"><span class="data-dot" style="--dot:#8f95bf"></span><span>Proactive Interaction</span><strong>271,570</strong></div><div class="data-row"><span class="data-dot" style="--dot:#7fa0c2"></span><span>Proactive QA</span><strong>197,584</strong></div><div class="data-row"><span class="data-dot" style="--dot:#b09ac0"></span><span>Proactive Caption Memory</span><strong>60,000</strong></div></div>
+        </div>
+        <div class="pipeline-title"><h3>Data synthesis</h3></div>
+        <figure class="paper-figure pipeline-figure"><button class="figure-button" data-lightbox="assets/figures/data-pipeline.webp" data-caption="Streaming caption and QA synthesis"><img loading="lazy" src="assets/figures/data-pipeline.webp" width="1990" height="984" alt="Caption synthesis: curate videos, annotate multiple granularities, and construct causal captions. QA synthesis: design tasks, localize evidence, and calibrate response times."></button></figure>
+      </div>
+    </section>
+
+    <section class="section results-section" id="results" aria-labelledby="results-heading">
+      <div class="container">
+
+        <div class="section-heading"><h2 id="results-heading">One 4B model. Eight leading results.</h2><p>OneStreamer achieves the highest aggregate score among the compared methods on every evaluated benchmark.</p></div>
+        <div class="result-chart-grid" id="result-charts" aria-label="OneStreamer and Qwen3-VL benchmark scores"></div>
+        <div class="chart-legend"><span><i class="legend-swatch ours-swatch"></i> OneStreamer (4B)</span><span><i class="legend-swatch base-swatch"></i> Qwen3-VL base (4B)</span></div>
+        <div class="table-toolbar"><div class="segmented-control" role="tablist" aria-label="Benchmark category"><button id="results-perception" role="tab" aria-selected="true" aria-controls="benchmark-panel" data-result-group="perception">Perception &amp; memory</button><button id="results-proactive" role="tab" aria-selected="false" aria-controls="benchmark-panel" data-result-group="proactive" tabindex="-1">Proactive response</button></div><label class="all-methods"><input id="all-methods" type="checkbox"> Show all methods</label></div>
+        <div id="benchmark-panel" role="tabpanel" aria-labelledby="results-perception"><div class="table-scroll" tabindex="0" role="region" aria-label="Benchmark comparison table, horizontally scrollable"><table id="benchmark-table"><caption class="sr-only">Online video benchmark results.</caption><thead></thead><tbody></tbody></table></div></div>
+
+        <noscript><p>Interactive benchmark comparisons require JavaScript. All results are available in <a href="https://arxiv.org/pdf/2610.01762">the paper</a>.</p></noscript>
+      </div>
+    </section>
+
+    <section class="section analysis-section" id="analysis" aria-labelledby="analysis-heading">
+      <div class="container">
+
+        <div class="section-heading"><h2 id="analysis-heading">Better memory. Well-timed responses.</h2><p>Ablations isolate the value of retaining caption records and choosing informative state supervision.</p></div>
+        <div class="finding-grid"><article><div class="finding-numbers">63.5 <span>→</span> <strong>71.6</strong></div><h3>Remember beyond the visual window.</h3><p>OVOBench Backward ASI improves with retained caption memory, using the same checkpoint and Recent-16 window as FIFO.</p></article><article><div class="finding-numbers"><strong>27.5<span>%</span></strong></div><h3>Supervise fewer, better-chosen states.</h3><p>PSTL outperforms dense state supervision and a supervision-matched random baseline on three proactive-response benchmarks.</p></article></div>
+        <details class="analysis-details"><summary><span>Memory and perception (PHCM)</span><span>+</span></summary><div class="table-scroll" tabindex="0" role="region" aria-label="PHCM ablation, horizontally scrollable"><table><caption class="sr-only">Effects of Proactive Hierarchical Caption Memory</caption><thead><tr><th scope="col">Variant</th><th scope="col">Visual context</th><th scope="col">OVO Backward ASI ↑</th><th scope="col">OVO Backward EPM ↑</th><th scope="col">OVO Real-Time ↑</th><th scope="col">OVO Overall ↑</th><th scope="col">StreamingBench RT ↑</th></tr></thead><tbody><tr><th scope="row">Full</th><td>Full history</td><td>67.6</td><td><strong>63.0</strong></td><td>70.9</td><td>70.9</td><td>80.5</td></tr><tr><th scope="row">FIFO</th><td>Recent-16</td><td>63.5</td><td>62.0</td><td>80.9</td><td>70.1</td><td>86.3</td></tr><tr class="ours-row"><th scope="row">PHCM</th><td>Recent-16 + captions</td><td><strong>71.6</strong></td><td>62.6</td><td><strong>81.4</strong></td><td><strong>72.1</strong></td><td><strong>86.9</strong></td></tr></tbody></table></div></details>
+        <details class="analysis-details"><summary><span>Response timing (PSTL)</span><span>+</span></summary><div class="table-scroll" tabindex="0" role="region" aria-label="PSTL ablation, horizontally scrollable"><table><caption class="sr-only">Ablation of state-token supervision</caption><thead><tr><th scope="col">State selection</th><th scope="col">Loss</th><th scope="col">Supervision</th><th scope="col">ProactiveVQA ↑</th><th scope="col">OmniMMI ↑</th><th scope="col">OVO-Timing ↑</th></tr></thead><tbody><tr><th scope="row">All state tokens</th><td>CE</td><td>100.0%</td><td>26.1</td><td>30.8</td><td>1.5</td></tr><tr><th scope="row">All state tokens</th><td>Focal</td><td>100.0%</td><td>47.0</td><td>32.8</td><td>26.5</td></tr><tr><th scope="row">Random Sparse</th><td>CE</td><td>27.5%</td><td>26.6</td><td>27.4</td><td>1.4</td></tr><tr><th scope="row">Transition Only</th><td>CE</td><td>18.1%</td><td>46.7</td><td>27.4</td><td>15.3</td></tr><tr class="ours-row"><th scope="row">PSTL</th><td>CE</td><td>27.5%</td><td>48.7</td><td>36.6</td><td>41.6</td></tr></tbody></table></div></details>
+        <div class="efficiency-block"><div class="efficiency-intro"><h3>Answer-stage efficiency</h3><p>On a 360-second OVOBench sample, PHCM uses 93.1% fewer context tokens than retaining the full visual history.</p><div class="efficiency-highlight"><strong>124<span>ms</span></strong><span>time to first token<br>at the answer stage</span></div></div><div class="efficiency-table"><div class="table-scroll" tabindex="0" role="region" aria-label="Answer-stage efficiency, horizontally scrollable"><table><caption class="sr-only">Answer-stage efficiency</caption><thead><tr><th scope="col">Strategy</th><th scope="col">Context tokens ↓</th><th scope="col">GPU memory ↓</th><th scope="col">TTFT ↓</th></tr></thead><tbody><tr><th scope="row">Full</th><td>62,094</td><td>25.18 GB</td><td>4.560 s</td></tr><tr><th scope="row">FIFO</th><td>3,036</td><td>9.69 GB</td><td>0.094 s</td></tr><tr class="ours-row"><th scope="row">PHCM</th><td>4,308</td><td>9.98 GB</td><td>0.124 s</td></tr></tbody></table></div><p class="table-note">Single H200. FIFO and PHCM use 16 recent frames; PHCM adds <strong>precomputed caption memory</strong>.</p></div></div>
+        <details class="analysis-details"><summary><span>Online memory construction</span><span>+</span></summary><p>On a 360-second StreamingBench clip, PHCM averages <strong>0.636 seconds per update</strong>, below the one-second input interval. This includes video decoding, preprocessing, input construction, vision encoding, and language-model inference.</p><div class="table-scroll" tabindex="0" role="region" aria-label="Online memory construction efficiency, horizontally scrollable"><table><caption class="sr-only">Online memory construction on a 360-second StreamingBench clip</caption><thead><tr><th scope="col">Strategy</th><th scope="col">Processing time ↓</th><th scope="col">Mean update ↓</th><th scope="col">Peak memory ↓</th><th scope="col">Peak input tokens ↓</th></tr></thead><tbody><tr><th scope="row">FIFO (forced silence)</th><td>170.00 s</td><td>0.472 s</td><td>10.233 GiB</td><td>7,914</td></tr><tr><th scope="row">Full (forced silence)</th><td>1444.75 s</td><td>4.013 s</td><td>29.754 GiB</td><td>87,535</td></tr><tr class="ours-row"><th scope="row">PHCM</th><td>228.96 s</td><td>0.636 s</td><td>10.327 GiB</td><td>8,362</td></tr></tbody></table></div><p class="table-note">Single H200, one update per second. FIFO and PHCM retain 128 frames (32 s at 4 FPS); Full retains all observed frames. FIFO and Full emit silence, while PHCM generates caption memory.</p></details>
+      </div>
+    </section>
+
+    <section class="section citation-section" id="citation" aria-labelledby="citation-heading"><div class="container"><div class="citation-heading"><div><h2 id="citation-heading">Citation</h2></div><button id="copy-citation" class="button"><svg><use href="#icon-copy"/></svg><span>Copy BibTeX</span></button></div><div class="citation-code"><pre><code id="bibtex">@misc{zeng2026onestreamerunifyingperceptionmemory,
+  title={OneStreamer: Unifying Perception, Memory, and Proactive
+         Response in Streaming Video Interaction},
+  author={Xiangyu Zeng and Yuandong Yang and Zhiqiu Zhang and
+          Yuhan Zhu and Xinhao Li and Qingyi Si and Dingyu Yao and
+          Changlian Ma and Haoran Chen and Xinyu Chen and Yansong Shi and
+          Junhao Zhou and Yifei Li and Jun Zhang and Chuanyu Qin and
+          Chenxu Yang and Xinlei Yu and Kun Ouyang and Yuchen Shao and
+          Qianshan Wei and Changhai Zhou and Jun Gao and Jiaqi Wang and
+          Limin Wang},
+  year={2026},
+  eprint={2610.01762},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.01762}
+}</code></pre></div><p id="copy-status" class="sr-only" role="status"></p></div></section>
+  </main>
+  <footer><div class="container footer-inner"><a class="brand" href="#"><img class="brand-logo" src="assets/OneStreamer_Logo.webp" width="34" height="34" alt=""><span>OneStreamer</span></a></div></footer>
+  <dialog id="figure-dialog" aria-labelledby="dialog-caption"><div class="dialog-toolbar"><p id="dialog-caption"></p><button id="close-dialog" class="icon-button" aria-label="Close enlarged figure">×</button></div><div class="dialog-image-wrap"><img id="dialog-image" alt=""></div><a id="dialog-original" target="_blank" rel="noopener">Full resolution <svg><use href="#icon-external"/></svg></a></dialog>
+</body>
+</html>

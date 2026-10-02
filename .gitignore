@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+.ssh/
+*.pem
+*.key
+id_ed25519*
+id_rsa*
