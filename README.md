@@ -19,9 +19,13 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Paper-coming_soon-b31b1b" alt="Paper: coming soon">
+  <a href="https://arxiv.org/pdf/2610.01762">
+    <img src="https://img.shields.io/badge/arXiv-2610.01762-b31b1b" alt="Paper: arXiv 2610.01762">
+  </a>
   
-  <img src="https://img.shields.io/badge/Project_Page-coming_soon-777777" alt="Project page: coming soon">
+  <a href="https://mcg-nju.github.io/OneStreamer/">
+    <img src="https://img.shields.io/badge/Project_Page-OneStreamer-777777" alt="OneStreamer project page">
+  </a>
   <a href="https://huggingface.co/MCG-NJU/OneStreamer-4B">
     <img src="https://img.shields.io/badge/Model-OneStreamer--4B-4b8bb5" alt="OneStreamer-4B model">
   </a>
@@ -199,9 +203,13 @@ We thank the authors of [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL), [VLMEval
 
 
 ```bibtex
-@misc{zeng2026onestreamer,
+@misc{zeng2026onestreamerunifyingperceptionmemory,
   title={OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction},
-  author={Xiangyu Zeng and Yuandong Yang and Zhiqiu Zhang and Yuhan Zhu and Xinhao Li and Qingyi Si and Changlian Ma and Yansong Shi and Haoran Chen and Xinyu Chen and Dingyu Yao and Junhao Zhou and Yifei Li and Jun Zhang and Chuanyu Qin and Chenxu Yang and Xinlei Yu and Kun Ouyang and Yuchen Shao and Changhai Zhou and Jun Gao and Jiaqi Wang and Limin Wang},
-  year={2026}
+  author={Xiangyu Zeng and Yuandong Yang and Zhiqiu Zhang and Yuhan Zhu and Xinhao Li and Qingyi Si and Dingyu Yao and Changlian Ma and Haoran Chen and Xinyu Chen and Yansong Shi and Junhao Zhou and Yifei Li and Jun Zhang and Chuanyu Qin and Chenxu Yang and Xinlei Yu and Kun Ouyang and Yuchen Shao and Qianshan Wei and Changhai Zhou and Jun Gao and Jiaqi Wang and Limin Wang},
+  year={2026},
+  eprint={2610.01762},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.01762}
 }
 ```
