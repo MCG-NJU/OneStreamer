@@ -49,6 +49,10 @@
 
 <p align="center"><strong>Perceive the present. Remember the past. Respond at the right time.</strong></p>
 
+## :fire: Updates
+
+- **2026/10/09**: 🎉🎉🎉 **OneStreamer** achieves **36.7** on [InteractionBench](https://github.com/Espere-1119-Song/InteractionBench) with **native streaming**, ranking first among the reported open-source methods across both the **Native Streaming** and **Native Real-time Interaction System** categories!
+
 ## Overview
 
 **OneStreamer** is a streaming video LLM that jointly learns to record evidence and respond through a shared proactive generation process. It preserves time-grounded factual memory before future questions are known, interprets incoming visual evidence, and decides when enough evidence is available to respond.
