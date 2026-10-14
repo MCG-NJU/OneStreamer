@@ -51,6 +51,7 @@
 
 ## :fire: Updates
 
+- **2026/10/15**: 🔥🔥 The **source videos for OneStreamer-Core** are now available on [Hugging Face](https://huggingface.co/datasets/yyd7/OneStreamer-Core-SourceVideo)!
 - **2026/10/09**: 🎉🎉🎉 **OneStreamer** achieves **36.7** on [InteractionBench](https://github.com/Espere-1119-Song/InteractionBench) with **native streaming**, ranking first among the reported open-source methods across both the **Native Streaming** and **Native Real-time Interaction System** categories!
 
 ## Overview
