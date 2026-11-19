@@ -209,13 +209,10 @@ We thank the authors of [Qwen3-VL](https://github.com/QwenLM/Qwen3-VL), [VLMEval
 
 
 ```bibtex
-@misc{zeng2026onestreamerunifyingperceptionmemory,
+@article{zeng2026onestreamer,
   title={OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction},
-  author={Xiangyu Zeng and Yuandong Yang and Zhiqiu Zhang and Yuhan Zhu and Xinhao Li and Qingyi Si and Dingyu Yao and Changlian Ma and Haoran Chen and Xinyu Chen and Yansong Shi and Junhao Zhou and Yifei Li and Jun Zhang and Chuanyu Qin and Chenxu Yang and Xinlei Yu and Kun Ouyang and Yuchen Shao and Qianshan Wei and Changhai Zhou and Jun Gao and Jiaqi Wang and Limin Wang},
-  year={2026},
-  eprint={2610.01762},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2610.01762}
+  author={Zeng, Xiangyu and Yang, Yuandong and Zhang, Zhiqiu and Zhu, Yuhan and Li, Xinhao and Si, Qingyi and Yao, Dingyu and Ma, Changlian and Chen, Haoran and Chen, Xinyu and others},
+  journal={arXiv preprint arXiv:2610.01762},
+  year={2026}
 }
 ```
